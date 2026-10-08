@@ -1,0 +1,19 @@
+{
+  "schema": "go-workflow.repo-local.vision.v1",
+  "kind": "vision",
+  "project": "james-agent-context",
+  "status": "active",
+  "north_star": "Give an offline agent a small, inspectable graph of public functional concepts while preserving evidence and uncertainty boundaries.",
+  "wedge": "One JSON graph, one JSON Schema, a deterministic validator, and a query CLI that run with Python standard library only.",
+  "target_user": "Agent builders and reviewers who need bounded James Software functional context without reproducing support content.",
+  "core_promise": "Useful graph queries with source-pointer provenance, explicit fact/inference/unknown labels, and a mechanically enforced public payload boundary.",
+  "product_principles": [
+    "Original synthesis over copied expression; selected source URLs over harvested content; unknowns stay unknown."
+  ],
+  "non_goals": [
+    "No scraped corpus, article mirror, media index, raw downloads, private provenance, person data, API invention, or implementation-schema claims."
+  ],
+  "success_metrics": [
+    "A fresh clone can validate and query the graph offline with no dependencies."
+  ]
+}

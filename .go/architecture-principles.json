@@ -1,0 +1,19 @@
+{
+  "schema": "go-workflow.repo-local.architecture-principles.v1",
+  "kind": "architecture_principles",
+  "project": "james-agent-context",
+  "principles": [
+    {
+      "id": "public-boundary",
+      "statement": "Keep only compact original graph records and source metadata.",
+      "rationale": "Avoid reproducing third-party expression or archive structure.",
+      "enforcement": "Validator and scanner reject payload-like fields and private paths."
+    },
+    {
+      "id": "evidence-separation",
+      "statement": "Every assertion is a fact, inference, or unknown.",
+      "rationale": "Avoid turning UI documentation into internal architecture claims.",
+      "enforcement": "Schema requires evidence type and source references for claims."
+    }
+  ]
+}

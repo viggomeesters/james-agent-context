@@ -1,0 +1,27 @@
+{
+  "schema": "go-workflow.repo-local.hierarchy.v1",
+  "kind": "hierarchy",
+  "project": "james-agent-context",
+  "epics": [
+    {
+      "id": "public-graph",
+      "title": "Public-safe graph artifact",
+      "features": [],
+      "tasks": [
+        "JAC-001"
+      ]
+    },
+    {
+      "id": "workflow",
+      "title": "Workflow",
+      "features": [
+        {
+          "id": "repo-local-workflow",
+          "title": "Repo-local workflow",
+          "tasks": []
+        }
+      ],
+      "tasks": []
+    }
+  ]
+}
