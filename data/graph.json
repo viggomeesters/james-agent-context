@@ -1,0 +1,55 @@
+{
+  "$schema": "../schemas/graph.schema.json",
+  "schema_version": "1.0.0",
+  "title": "James Software functional context graph",
+  "language": "en",
+  "purpose": "Compact original synthesis of publicly described product behavior for offline agent use.",
+  "scope": {
+    "included": "Functional concepts, workflows, selected public source pointers, and explicit uncertainty labels.",
+    "excluded": "Support-article content, media, article indexes, scraped records, private provenance, personal data, API contracts, and physical implementation details."
+  },
+  "entities": [
+    {"id":"practice","label":"Practice","kind":"configuration","summary":"A practice-level configuration context for staff, locations, finance, portals, and integrations.","evidence_type":"fact","source_ids":["practice-general"]},
+    {"id":"staff-member","label":"Staff member","kind":"actor","summary":"A configured user whose functional permissions and professional settings can affect work in the practice.","evidence_type":"fact","source_ids":["user-groups","staff-profession"]},
+    {"id":"user-group","label":"User group","kind":"authorization","summary":"A functional grouping that assigns a staff member one configured permission group.","evidence_type":"fact","source_ids":["user-groups"]},
+    {"id":"patient","label":"Patient","kind":"record","summary":"A functional patient record with status and care-related links; this graph contains no patient records or examples.","evidence_type":"fact","source_ids":["patient-general","patient-status"]},
+    {"id":"insurance-check","label":"Insurance check","kind":"workflow","summary":"An optional verification workflow that can retrieve insurance-related information for a patient context.","evidence_type":"fact","source_ids":["insurance-check"]},
+    {"id":"care-trajectory","label":"Care trajectory","kind":"workflow","summary":"A treatment and financial context used when working with consultations.","evidence_type":"fact","source_ids":["trajectory"]},
+    {"id":"clinical-record","label":"Clinical record","kind":"record","summary":"A template-backed record with functional status, access, and optional patient publication controls.","evidence_type":"fact","source_ids":["clinical-record"]},
+    {"id":"record-template","label":"Record template","kind":"configuration","summary":"A configurable template that can organize clinical-record phases, steps, and tools.","evidence_type":"fact","source_ids":["record-template"]},
+    {"id":"appointment","label":"Appointment","kind":"scheduling","summary":"A calendar item that can be patient, group, or general and can use location and practitioner configuration.","evidence_type":"fact","source_ids":["appointment"]},
+    {"id":"schedule","label":"Schedule","kind":"scheduling","summary":"A planning context used to offer appointments; its physical storage and calculation rules are unknown.","evidence_type":"inference","source_ids":["appointment-proposals"]},
+    {"id":"consultation","label":"Consultation","kind":"finance","summary":"A recorded care activity that can hold one or more billable performances and may remain incomplete.","evidence_type":"fact","source_ids":["consultation-status","declaration-lines"]},
+    {"id":"tariff-list","label":"Tariff list","kind":"configuration","summary":"A configuration of performances and prices used in financial routing.","evidence_type":"fact","source_ids":["tariff-list"]},
+    {"id":"contract","label":"Contract","kind":"configuration","summary":"A configuration that relates organization, period, professionals, declarant, and tariff list.","evidence_type":"fact","source_ids":["contract"]},
+    {"id":"financial-document","label":"Financial document","kind":"finance","summary":"A functional invoice or declaration output built from consultation performances and route conditions.","evidence_type":"fact","source_ids":["declarations","declaration-lines"]},
+    {"id":"patient-portal","label":"Patient portal","kind":"portal","summary":"An authenticated patient-facing surface with selectively published information or actions.","evidence_type":"fact","source_ids":["patient-portal","portal-publication"]},
+    {"id":"appointment-portal","label":"Appointment portal","kind":"portal","summary":"A patient-facing scheduling surface described as operating without a portal login.","evidence_type":"fact","source_ids":["appointment-portal","appointment-proposals"]},
+    {"id":"integration","label":"Integration","kind":"integration","summary":"A practice-configured online service or API-facing connection; this graph does not define endpoint or token mechanics.","evidence_type":"fact","source_ids":["online-services","api-overview"]}
+  ],
+  "relationships": [
+    {"id":"r-practice-staff","from":"practice","to":"staff-member","predicate":"configures","evidence_type":"inference","summary":"A practice configuration context is inferred to manage its configured staff.","source_ids":["user-groups"]},
+    {"id":"r-staff-group","from":"staff-member","to":"user-group","predicate":"belongs_to","evidence_type":"fact","summary":"Each staff member is assigned one user group.","source_ids":["user-groups"]},
+    {"id":"r-patient-trajectory","from":"patient","to":"care-trajectory","predicate":"has_care_context","evidence_type":"inference","summary":"A patient can be associated with care-trajectory context; cardinality is not asserted.","source_ids":["trajectory"]},
+    {"id":"r-patient-record","from":"patient","to":"clinical-record","predicate":"has_record","evidence_type":"fact","summary":"The patient view functionally manages clinical records.","source_ids":["clinical-record"]},
+    {"id":"r-record-template","from":"clinical-record","to":"record-template","predicate":"uses_template","evidence_type":"fact","summary":"A clinical record is described as template-backed.","source_ids":["clinical-record","record-template"]},
+    {"id":"r-patient-appointment","from":"patient","to":"appointment","predicate":"attends","evidence_type":"fact","summary":"Patient appointments include a patient; group appointments can involve more than one.","source_ids":["appointment"]},
+    {"id":"r-appointment-schedule","from":"appointment","to":"schedule","predicate":"is_offered_by","evidence_type":"inference","summary":"Appointment proposals depend on scheduling conditions; no internal scheduling data model is asserted.","source_ids":["appointment-proposals"]},
+    {"id":"r-trajectory-consultation","from":"care-trajectory","to":"consultation","predicate":"contextualizes","evidence_type":"fact","summary":"A care trajectory supplies treatment and financial context for consultations.","source_ids":["trajectory"]},
+    {"id":"r-consultation-document","from":"consultation","to":"financial-document","predicate":"may_generate","evidence_type":"fact","summary":"Consultation performances can create declaration or invoice routes when conditions are complete.","source_ids":["consultation-status","declaration-lines","declarations"]},
+    {"id":"r-contract-tariff","from":"contract","to":"tariff-list","predicate":"selects","evidence_type":"fact","summary":"A contract configuration includes a tariff-list association.","source_ids":["contract"]},
+    {"id":"r-patient-portal","from":"patient","to":"patient-portal","predicate":"may_access","evidence_type":"fact","summary":"Patient portal access and publication are deliberately configured.","source_ids":["patient-portal","portal-publication"]},
+    {"id":"r-practice-integration","from":"practice","to":"integration","predicate":"configures","evidence_type":"fact","summary":"Online services are configured from the practice context.","source_ids":["online-services","api-overview"]}
+  ],
+  "claims": [
+    {"id":"claim-financial-hold","statement":"An incomplete consultation can remain in a holding state rather than immediately producing a financial output.","evidence_type":"fact","source_ids":["consultation-status"]},
+    {"id":"claim-portal-selection","statement":"Patient-facing publication is selective rather than implied by staff access.","evidence_type":"fact","source_ids":["portal-publication","patient-portal"]},
+    {"id":"claim-scheduling-synthesis","statement":"Offered appointment slots are logically constrained by configured proposal conditions, not modeled here as freely chosen timestamps.","evidence_type":"inference","source_ids":["appointment-proposals"]},
+    {"id":"claim-api-boundary","statement":"The public API overview describes practice-bound access and selected functional capabilities, but it does not establish an endpoint or authorization specification.","evidence_type":"fact","source_ids":["api-overview"]}
+  ],
+  "unknowns": [
+    {"id":"unknown-physical-schema","statement":"No database engine, table, column, primary key, foreign key, index, ORM model, or migration is represented or implied by this graph."},
+    {"id":"unknown-backend","statement":"No backend language, framework, cloud provider, hosting topology, queue, encryption design, retention policy, or network architecture is established here."},
+    {"id":"unknown-api-contract","statement":"No API endpoint list, request or response schema, token format, rotation policy, rate limit, webhook design, or complete authorization model is established here."}
+  ]
+}

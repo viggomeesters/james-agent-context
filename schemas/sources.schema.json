@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/james-agent-context/sources.schema.json",
+  "title": "Selected public source pointers",
+  "type": "object",
+  "required": ["$schema", "schema_version", "license_note", "sources"],
+  "properties": {
+    "$schema": {"type":"string"},
+    "schema_version": {"type":"string"},
+    "license_note": {"type":"string"},
+    "sources": {"type":"array", "minItems":1, "items":{"type":"object", "required":["id","title","url","publisher"], "properties":{"id":{"type":"string","pattern":"^[a-z][a-z0-9-]*$"},"title":{"type":"string"},"url":{"type":"string","pattern":"^https://jamessoftware\\.zendesk\\.com/"},"publisher":{"type":"string"}}, "additionalProperties":false}}
+  },
+  "additionalProperties": false
+}

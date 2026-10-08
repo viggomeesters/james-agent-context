@@ -1,0 +1,135 @@
+{
+  "schema": "go-workflow.repo-local.task.v1",
+  "kind": "task",
+  "execution_mode": "mechanical",
+  "shareable_delivery": "auto",
+  "id": "JAC-001",
+  "project": "james-agent-context",
+  "status": "done",
+  "summary": "Build and verify the compact public-safe James functional graph repository",
+  "description": "Build and verify the compact public-safe James functional graph repository",
+  "order": 1,
+  "scope": {
+    "read": [
+      ".go/**",
+      "README.md",
+      "docs/**",
+      "data/**",
+      "schemas/**",
+      "scripts/**",
+      "tests/**",
+      "assets/**",
+      "AGENTS.md",
+      "Makefile"
+    ],
+    "modify": [
+      ".go/**",
+      "README.md",
+      "docs/**",
+      "data/**",
+      "schemas/**",
+      "scripts/**",
+      "tests/**",
+      "assets/**",
+      "AGENTS.md",
+      "Makefile",
+      "go",
+      ".gitignore",
+      "LICENSE",
+      "SECURITY.md",
+      "CONTRIBUTING.md",
+      "CHANGELOG.md"
+    ]
+  },
+  "acceptance": [
+    "Deliver a standalone compact graph with 12–20 original-synthesis entities, relationships, selected source metadata, explicit fact/inference/unknown boundaries, and no archive or content mirror.",
+    "Provide a JSON Schema, deterministic standard-library validator, query CLI, public-boundary scanner, compact agent-loading/source-reuse guidance, and a local-only check command.",
+    "Tests prove source integrity, fact/inference distinction, physical-schema unknowns, forbidden public payload rejection, and absence of private absolute paths.",
+    "All task verification commands pass and evidence is recorded."
+  ],
+  "verification": [
+    "make check"
+  ],
+  "claim": {
+    "agent": "hermes",
+    "claimed_at": "2026-10-08T21:09:16+02:00",
+    "base_commit": "b7d1bd7588df6cbf2a1d615598131a1c4f5b835b"
+  },
+  "evidence": [
+    {
+      "schema": "go-workflow.finish-evidence.v1",
+      "created_at": "2026-10-08T21:53:39+02:00",
+      "task_id": "JAC-001",
+      "agent": "hermes",
+      "summary": "verification=make check; result=PASS six tests graph validator 33file full boundary scan audit fresh; critic=A independent deleg_05b2c46f exact tree37274032b29ac52c3b74812bf0c016456d48f11d; runtime=hermes; graph=17entities12relationships4claims3unknowns21selected sources no KB mirror; doctor=exact pinned v0.3.49 ready true; rights=original compact synthesis human reviewed no legal certification; followup=extend one source-backed use case only after real assignment scope",
+      "changed_files": [
+        ".go/runs/events.jsonl",
+        ".go/tasks/active/JAC-001.json",
+        "CHANGELOG.md",
+        "CONTRIBUTING.md",
+        "LICENSE",
+        "Makefile",
+        "README.md",
+        "SECURITY.md",
+        "assets/hero.svg",
+        "data/graph.json",
+        "data/sources.json",
+        "docs/public-boundary.md",
+        "docs/public-safety-audit.md",
+        "docs/source-reuse.md",
+        "docs/vision.json",
+        "go",
+        "schemas/graph.schema.json",
+        "schemas/sources.schema.json",
+        "scripts/bootstrap-stack.sh",
+        "scripts/check.sh",
+        "scripts/public_boundary.py",
+        "scripts/query.py",
+        "scripts/validate-go.sh",
+        "scripts/validate.py",
+        "tests/test_graph.py"
+      ],
+      "no_diff": false,
+      "git": {
+        "claim_base_commit": "b7d1bd7588df6cbf2a1d615598131a1c4f5b835b",
+        "observed_head_commit": "b7d1bd7588df6cbf2a1d615598131a1c4f5b835b"
+      },
+      "verification": {
+        "command": "make check",
+        "result": "PASS six tests graph validator 33file full boundary scan audit fresh"
+      },
+      "runtime": {
+        "agent": "hermes",
+        "runtime": "hermes",
+        "model": null,
+        "billing_mode": "unknown"
+      },
+      "usage": {
+        "schema": "go-workflow.usage-attribution.v1",
+        "runtime_kind": "hermes",
+        "billing_mode": "unknown",
+        "owner": "hermes",
+        "model": null,
+        "token_estimate": null,
+        "api_equivalent_cost_usd": null,
+        "provider_invoice_cost_usd": null,
+        "cost_label": "api_equivalent_not_invoice_cost"
+      },
+      "review": {
+        "outcome": "A independent deleg_05b2c46f exact tree37274032b29ac52c3b74812bf0c016456d48f11d",
+        "skip_reason": null
+      }
+    }
+  ],
+  "work_status": "completed",
+  "review_status": "approved",
+  "review_history": [
+    {
+      "created_at": "2026-10-08T21:53:52+02:00",
+      "agent": "hermes",
+      "status": "approved",
+      "evidence": "Independent final review A deleg_05b2c46f exact product tree37274032b29ac52c3b74812bf0c016456d48f11d; six tests and public scan pass; origin tag HEAD mismatches fail without writes; no further product edits",
+      "transaction_id": "ea227f6cabc14ffca19612e227f16aa9"
+    }
+  ]
+}

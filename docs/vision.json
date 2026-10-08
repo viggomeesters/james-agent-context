@@ -1,0 +1,66 @@
+{
+  "$schema": "https://viggomeesters.github.io/schemas/repo-vision-contract.schema.json",
+  "schema_version": "1.0.0",
+  "artifact_kind": "repo_design_vision_contract",
+  "repo": {
+    "name": "James Agent Context",
+    "primary_users": ["agent builders", "reviewers"],
+    "product_surface": "agent_first"
+  },
+  "vision": {
+    "one_line": "A compact, offline, evidence-aware functional graph for bounded James Software agent context.",
+    "north_star": "A fresh clone lets an agent query useful public functional concepts without reproducing a third-party knowledge base or inventing internals.",
+    "promise": "Structured JSON, direct source pointers, deterministic checks, and explicit unknowns make the repository inspectable and useful without network access."
+  },
+  "principles": [
+    {
+      "id": "agent-first",
+      "title": "Agent-first product surface",
+      "rule": "Make the graph, source pointers, schemas, query CLI, and checks primary; Markdown explains the boundaries.",
+      "good": ["structured graph records", "deterministic checks", "offline queries"],
+      "bad": ["prose-only context", "manual-only validation", "unsupported certainty"]
+    },
+    {
+      "id": "json-first",
+      "title": "JSON-first artifacts",
+      "rule": "Use JSON for machine-consumable graph, source, schema, and vision artifacts.",
+      "good": ["data/graph.json", "data/sources.json", "schemas"],
+      "bad": ["copied help-center pages", "unstructured source dumps"]
+    },
+    {
+      "id": "fail-closed",
+      "title": "Fail closed on evidence and public boundary",
+      "rule": "Unsupported implementation details remain unknown; payload-like content and local provenance fail validation or scanning.",
+      "good": ["explicit unknowns", "negative tests", "source-id integrity"],
+      "bad": ["invented API details", "physical-schema claims", "archive substitution"]
+    }
+  ],
+  "non_goals": [
+    "Knowledge-base mirroring or crawling",
+    "Physical schema or API-contract reconstruction",
+    "Patient or customer data handling",
+    "Product endorsement or official documentation"
+  ],
+  "public_safety": {
+    "forbidden": ["secrets", "customer data", "private screenshots", "proprietary copied content"],
+    "required_boundaries": ["source labels", "explicit evidence type", "explicit unknowns", "independent pre-publication review"]
+  },
+  "acceptance_scorecard": [
+    {"id":"agent-first","question":"Can an agent consume the graph without scraping prose?","pass_condition":"Graph, source pointers, schemas, and query commands are structured and local."},
+    {"id":"self-contained","question":"Can a fresh clone validate and query it locally?","pass_condition":"Standard-library checks and commands run without network access."},
+    {"id":"reliable","question":"Does missing evidence fail closed?","pass_condition":"Evidence types and unknowns are required; validator tests reject unsafe graph shape."}
+  ],
+  "review_checklist": [
+    "Does the change preserve a compact original graph rather than a source substitute?",
+    "Are fact, inference, and unknown boundaries preserved?",
+    "Are source pointers direct and minimal?",
+    "Did local checks pass?",
+    "Has an independent reviewer approved the exact staged public tree before publication?"
+  ],
+  "maturity_model": [
+    {"level":"L0","state":"present","meaning":"The structured graph and boundaries exist."},
+    {"level":"L1","state":"tested","meaning":"Validation, scan, and regression tests pass locally."},
+    {"level":"L2","state":"publish-reviewed","meaning":"An independent reviewer approves the exact staged tree and source boundary before publication."}
+  ],
+  "residual_risk_wording": "Local checks prove repository shape and obvious boundary regressions; they do not certify rights clearance, product correctness, or publication authorization."
+}

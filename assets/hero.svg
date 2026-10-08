@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">James Agent Context</title><desc id="desc">A compact functional knowledge graph with explicit evidence boundaries.</desc>
+  <rect width="1200" height="630" fill="#0d1726"/>
+  <g fill="none" stroke="#4fd1c5" stroke-width="3" opacity=".78"><path d="M170 180L405 115 600 255 850 125 1030 285M170 180l70 280 360-205 250 210 180-180"/></g>
+  <g fill="#f8fafc"><circle cx="170" cy="180" r="17"/><circle cx="405" cy="115" r="17"/><circle cx="600" cy="255" r="21"/><circle cx="850" cy="125" r="17"/><circle cx="1030" cy="285" r="17"/><circle cx="240" cy="460" r="17"/><circle cx="850" cy="465" r="17"/></g>
+  <text x="86" y="545" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="54" font-weight="700">James Agent Context</text>
+  <text x="89" y="590" fill="#a7f3d0" font-family="system-ui, sans-serif" font-size="24">compact functional graph · evidence-aware · public-boundary first</text>
+</svg>

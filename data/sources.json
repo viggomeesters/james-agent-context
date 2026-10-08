@@ -1,0 +1,28 @@
+{
+  "$schema": "../schemas/sources.schema.json",
+  "schema_version": "1.0.0",
+  "license_note": "Entries are selected public source pointers. They contain no copied article body, media, or local retrieval metadata.",
+  "sources": [
+    {"id":"practice-general","title":"Practice general settings","url":"https://jamessoftware.zendesk.com/hc/nl/articles/49505738056465-Praktijk-Algemeen-Algemeen","publisher":"James Software Help Center"},
+    {"id":"user-groups","title":"User groups","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29102099981073-Praktijk-Gebruikersgroepen","publisher":"James Software Help Center"},
+    {"id":"staff-profession","title":"Staff professional data","url":"https://jamessoftware.zendesk.com/hc/nl/articles/36183026997009-Praktijk-Medewerkers-Beroepsgegevens","publisher":"James Software Help Center"},
+    {"id":"patient-general","title":"Patient card: general","url":"https://jamessoftware.zendesk.com/hc/nl/articles/28217891009937-Patientenkaart-Algemeen","publisher":"James Software Help Center"},
+    {"id":"patient-status","title":"Patient card statuses","url":"https://jamessoftware.zendesk.com/hc/nl/articles/39312938383377-Pati%C3%ABntenkaart-statussen","publisher":"James Software Help Center"},
+    {"id":"insurance-check","title":"Insurance verification","url":"https://jamessoftware.zendesk.com/hc/nl/articles/30438199350545-COV-Controle-Op-Verzekeringsgegevens","publisher":"James Software Help Center"},
+    {"id":"trajectory","title":"Care trajectory","url":"https://jamessoftware.zendesk.com/hc/nl/articles/38027387985937-Pati%C3%ABntenkaart-Zorgtrajecten-open-Zorgtraject","publisher":"James Software Help Center"},
+    {"id":"clinical-record","title":"Patient card: clinical records","url":"https://jamessoftware.zendesk.com/hc/nl/articles/28284317130641-Patientenkaart-Dossiers","publisher":"James Software Help Center"},
+    {"id":"record-template","title":"Record template settings","url":"https://jamessoftware.zendesk.com/hc/nl/articles/34857436029457-Dossiersjabloon-instellen-Algemene-instellingen","publisher":"James Software Help Center"},
+    {"id":"appointment","title":"Patient appointment","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29645903889553-Patientafspraak-open","publisher":"James Software Help Center"},
+    {"id":"appointment-proposals","title":"Appointment proposals","url":"https://jamessoftware.zendesk.com/hc/nl/articles/26167204977809-Portalen-Afsprakenbureau-Hoe-bepaal-ik-wat-waar-wanneer-en-bij-wie-ingepland-kan-worden-Afspraakvoorstellen","publisher":"James Software Help Center"},
+    {"id":"consultation-status","title":"Consultation statuses","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29066915305489-Financieel-Consulten","publisher":"James Software Help Center"},
+    {"id":"declaration-lines","title":"Declaration file detail","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29035827083537-Financieel-Declaraties-geopend-declaratiebestand","publisher":"James Software Help Center"},
+    {"id":"declarations","title":"Declarations","url":"https://jamessoftware.zendesk.com/hc/nl/articles/28903364577937-Financieel-Declaraties","publisher":"James Software Help Center"},
+    {"id":"tariff-list","title":"Tariff list","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29392110353937-Tarieflijst-open","publisher":"James Software Help Center"},
+    {"id":"contract","title":"Contracts","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29424083390609-Praktijk-Contracten","publisher":"James Software Help Center"},
+    {"id":"patient-portal","title":"Patient portal","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29607540061201-Het-pati%C3%ABntenportaal","publisher":"James Software Help Center"},
+    {"id":"appointment-portal","title":"Appointment portal","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29600059372689-Het-afsprakenportaal","publisher":"James Software Help Center"},
+    {"id":"portal-publication","title":"Portal visibility and editing","url":"https://jamessoftware.zendesk.com/hc/nl/articles/30865128172177-Hoe-zorg-ik-dat-pati%C3%ABnten-onderdelen-van-het-dossier-kunnen-zien-of-wijzigen-via-het-pati%C3%ABntenportaal","publisher":"James Software Help Center"},
+    {"id":"online-services","title":"Online services","url":"https://jamessoftware.zendesk.com/hc/nl/articles/29579685920657-Praktijk-Online-diensten-koppelingen","publisher":"James Software Help Center"},
+    {"id":"api-overview","title":"API overview","url":"https://jamessoftware.zendesk.com/hc/nl/articles/46952204708369-Wat-is-er-mogelijk-met-de-James-API","publisher":"James Software Help Center"}
+  ]
+}
