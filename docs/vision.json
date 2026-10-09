@@ -23,8 +23,8 @@
     {
       "id": "json-first",
       "title": "JSON-first artifacts",
-      "rule": "Use JSON for machine-consumable graph, source, schema, and vision artifacts.",
-      "good": ["data/graph.json", "data/sources.json", "schemas"],
+      "rule": "Use JSON for machine-consumable graph, selected-source, link-index, schema, and vision artifacts.",
+      "good": ["data/graph.json", "data/sources.json", "data/knowledge-base-index.json", "schemas"],
       "bad": ["copied help-center pages", "unstructured source dumps"]
     },
     {

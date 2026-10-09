@@ -13,6 +13,8 @@ GRAPH = ROOT / "data" / "graph.json"
 SOURCES = ROOT / "data" / "sources.json"
 GRAPH_SCHEMA = ROOT / "schemas" / "graph.schema.json"
 SOURCES_SCHEMA = ROOT / "schemas" / "sources.schema.json"
+KNOWLEDGE_BASE_INDEX = ROOT / "data" / "knowledge-base-index.json"
+KNOWLEDGE_BASE_INDEX_SCHEMA = ROOT / "schemas" / "knowledge-base-index.schema.json"
 ID_RE = re.compile(r"^[a-z][a-z0-9-]*$")
 # Public records may not carry workstation or service filesystem provenance.
 INTERNAL_PATH = re.compile(r"(?i)(?<![A-Za-z0-9:+._-])/(?:home|mnt|srv|var|opt|root|etc|private)(?:/|$)|[A-Z]:\\(?:Users|ProgramData|home)(?:\\|$)|file:/+")
@@ -103,6 +105,28 @@ def string_values(value: Any, location: str = "$") -> list[tuple[str, str]]:
     return []
 
 
+def validate_index(index: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    index_schema = load(KNOWLEDGE_BASE_INDEX_SCHEMA)
+    validate_schema(index, index_schema, index_schema, "knowledge_base_index", errors)
+    entries = index.get("entries", [])
+    if isinstance(entries, list):
+        pairs = [(item.get("title"), item.get("url")) for item in entries if isinstance(item, dict)]
+        if len(pairs) != len(entries):
+            issue(errors, "knowledge-base index entries must be objects")
+        if len({url for _, url in pairs}) != len(pairs):
+            issue(errors, "knowledge-base index URLs must be unique")
+        if len({title for title, _ in pairs}) != len(pairs):
+            issue(errors, "knowledge-base index titles must be unique")
+        expected_order = sorted(pairs, key=lambda pair: (str(pair[0]).casefold(), str(pair[0]), str(pair[1])))
+        if pairs != expected_order:
+            issue(errors, "knowledge-base index entries must be alphabetically sorted by title")
+    for location, value in string_values(index, "knowledge_base_index"):
+        if INTERNAL_PATH.search(value):
+            issue(errors, f"{location}: forbidden absolute internal path")
+    return errors
+
+
 def validate(graph: dict[str, Any], sources: dict[str, Any]) -> list[str]:
     errors: list[str] = []
     graph_schema = load(GRAPH_SCHEMA)
@@ -161,13 +185,17 @@ def validate(graph: dict[str, Any], sources: dict[str, Any]) -> list[str]:
 
 
 def main() -> int:
-    errors = validate(load(GRAPH), load(SOURCES))
+    errors = validate(load(GRAPH), load(SOURCES)) + validate_index(load(KNOWLEDGE_BASE_INDEX))
     if errors:
         print("validation failed:")
         print("\n".join(f"- {error}" for error in errors))
         return 1
     graph = load(GRAPH)
-    print(f"valid graph: {len(graph['entities'])} entities, {len(graph['relationships'])} relationships, {len(graph['claims'])} claims")
+    index = load(KNOWLEDGE_BASE_INDEX)
+    print(
+        f"valid graph: {len(graph['entities'])} entities, {len(graph['relationships'])} relationships, "
+        f"{len(graph['claims'])} claims; knowledge-base index: {len(index['entries'])} links"
+    )
     return 0
 
 

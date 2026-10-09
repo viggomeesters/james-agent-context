@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/james-agent-context/knowledge-base-index.schema.json",
+  "title": "Public knowledge-base link index",
+  "type": "object",
+  "required": ["snapshot_date", "scope", "entries"],
+  "properties": {
+    "snapshot_date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "scope": {
+      "type": "string",
+      "enum": ["Public anonymous James Help Center article links; link-only index."]
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 637,
+      "maxItems": 637,
+      "items": {
+        "type": "object",
+        "required": ["title", "url"],
+        "properties": {
+          "title": {"type": "string", "minLength": 1},
+          "url": {
+            "type": "string",
+            "pattern": "^https://jamessoftware\\.zendesk\\.com/hc/nl/articles/[0-9]+(?:-[^/?#]+)?$"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -14,6 +14,7 @@ No candidate path or line has a scanner exemption. Scanner marker constants and 
 | `.go/project.json` | clear at generation time | n/a |
 | `.go/runs/events.jsonl` | clear at generation time | n/a |
 | `.go/tasks/done/JAC-001.json` | clear at generation time | n/a |
+| `.go/tasks/done/JAC-002.json` | clear at generation time | n/a |
 | `.go/vision.json` | clear at generation time | n/a |
 | `AGENTS.md` | clear at generation time | n/a |
 | `CHANGELOG.md` | clear at generation time | n/a |
@@ -24,21 +25,26 @@ No candidate path or line has a scanner exemption. Scanner marker constants and 
 | `SECURITY.md` | clear at generation time | n/a |
 | `assets/hero.svg` | clear at generation time | yes |
 | `data/graph.json` | clear at generation time | n/a |
+| `data/knowledge-base-index.json` | clear at generation time | n/a |
 | `data/sources.json` | clear at generation time | n/a |
+| `docs/knowledge-base-index.md` | clear at generation time | n/a |
 | `docs/public-boundary.md` | clear at generation time | n/a |
 | `docs/public-safety-audit.md` | clear at generation time | n/a |
 | `docs/source-reuse.md` | clear at generation time | n/a |
 | `docs/vision.json` | clear at generation time | n/a |
 | `go` | clear at generation time | n/a |
 | `schemas/graph.schema.json` | clear at generation time | n/a |
+| `schemas/knowledge-base-index.schema.json` | clear at generation time | n/a |
 | `schemas/sources.schema.json` | clear at generation time | n/a |
 | `scripts/bootstrap-stack.sh` | clear at generation time | n/a |
 | `scripts/check.sh` | clear at generation time | n/a |
+| `scripts/compile_kb_index.py` | clear at generation time | n/a |
 | `scripts/public_boundary.py` | clear at generation time | n/a |
 | `scripts/query.py` | clear at generation time | n/a |
 | `scripts/validate-go.sh` | clear at generation time | n/a |
 | `scripts/validate.py` | clear at generation time | n/a |
+| `tests/fixtures/knowledge-base-catalog.json` | clear at generation time | n/a |
 | `tests/test_graph.py` | clear at generation time | n/a |
 
-**Automated scope:** 33 candidate files; scanner findings at generation time: 0.
+**Automated scope:** 39 candidate files; scanner findings at generation time: 0.
 Reproduce: `python3 scripts/public_boundary.py --audit docs/public-safety-audit.md` followed by `python3 scripts/public_boundary.py` and `git diff --exit-code -- docs/public-safety-audit.md`.

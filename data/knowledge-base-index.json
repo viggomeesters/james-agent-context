@@ -1,0 +1,2554 @@
+{
+  "snapshot_date": "2026-10-08",
+  "scope": "Public anonymous James Help Center article links; link-only index.",
+  "entries": [
+    {
+      "title": "0001: Bericht is afgekeurd om technische redenen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897068118929-0001-Bericht-is-afgekeurd-om-technische-redenen"
+    },
+    {
+      "title": "0320: Client is niet verzekerd",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897096877585-0320-Client-is-niet-verzekerd"
+    },
+    {
+      "title": "0435: Burgerservicenummer (BSN) verzekerde ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897125297937-0435-Burgerservicenummer-BSN-verzekerde-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "0550: Machtigingsnummer / meldingsnummer zorgverzekeraar ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897162334225-0550-Machtigingsnummer-meldingsnummer-zorgverzekeraar-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "0553: Gedeclareerde prestatie valt buiten de gemachtigde periode",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897489940369-0553-Gedeclareerde-prestatie-valt-buiten-de-gemachtigde-periode"
+    },
+    {
+      "title": "0554: Gedeclareerde prestatie is anders dan afgegeven machtiging",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900253564945-0554-Gedeclareerde-prestatie-is-anders-dan-afgegeven-machtiging"
+    },
+    {
+      "title": "0559: Zorgverlenerscode behandelaar/uitvoerder heeft geen overeenkomst met declarerende praktijk of instelling",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900323103889-0559-Zorgverlenerscode-behandelaar-uitvoerder-heeft-geen-overeenkomst-met-declarerende-praktijk-of-instelling"
+    },
+    {
+      "title": "0562: Zorgverlener is niet erkend of bevoegd tot uitvoering van opgegeven prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900329643025-0562-Zorgverlener-is-niet-erkend-of-bevoegd-tot-uitvoering-van-opgegeven-prestatie"
+    },
+    {
+      "title": "0582: Prestatiecode (of artikel [AP] GPH-/DBC-declaratiecode) ontbreekt of is onjuist (niet bestaande code)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900401257745-0582-Prestatiecode-of-artikel-AP-GPH-DBC-declaratiecode-ontbreekt-of-is-onjuist-niet-bestaande-code"
+    },
+    {
+      "title": "0584: Maximum aantal prestaties / maximum tijd is overschreden",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900405965969-0584-Maximum-aantal-prestaties-maximum-tijd-is-overschreden"
+    },
+    {
+      "title": "0586: Declaratie is te laat ingediend",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900444069521-0586-Declaratie-is-te-laat-ingediend"
+    },
+    {
+      "title": "0587: Prestatie/declaratie is reeds gedeclareerd en/of vergoed of is al eerder vergoed aan een ander",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900447343761-0587-Prestatie-declaratie-is-reeds-gedeclareerd-en-of-vergoed-of-is-al-eerder-vergoed-aan-een-ander"
+    },
+    {
+      "title": "0589: Maximum te claimen bedrag is reeds gedeclareerd.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900467297553-0589-Maximum-te-claimen-bedrag-is-reeds-gedeclareerd"
+    },
+    {
+      "title": "0611: Tarief prestatie ontbreekt of is niet in overeenstemming met landelijke of contractafspraken",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25900514360081-0611-Tarief-prestatie-ontbreekt-of-is-niet-in-overeenstemming-met-landelijke-of-contractafspraken"
+    },
+    {
+      "title": "0613: Prestatie is niet (volledig) declarabel volgens de verzekeringsvoorwaarden.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830283095953-0613-Prestatie-is-niet-volledig-declarabel-volgens-de-verzekeringsvoorwaarden"
+    },
+    {
+      "title": "0634: Prestatie voldoet niet in combinatie met eerdere prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830419163025-0634-Prestatie-voldoet-niet-in-combinatie-met-eerdere-prestatie"
+    },
+    {
+      "title": "0638: Aantal uitgevoerde prestaties of hoeveelheid afgeleverd ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830473728657-0638-Aantal-uitgevoerde-prestaties-of-hoeveelheid-afgeleverd-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "0711: Bankrekeningnummer debiteur ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830498293777-0711-Bankrekeningnummer-debiteur-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "3100: Verwijsdiagnose paramedische hulp ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29767815597201-3100-Verwijsdiagnose-paramedische-hulp-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "3102: Code soort indicatie paramedische hulp ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29768006424849-3102-Code-soort-indicatie-paramedische-hulp-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "5754: Aantal prestaties paramedische hulp heeft volume overschreden",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830534583441-5754-Aantal-prestaties-paramedische-hulp-heeft-volume-overschreden"
+    },
+    {
+      "title": "5800: Soort prestatie/tarief ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29768220402193-5800-Soort-prestatie-tarief-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8002: Record is niet beoordeeld (wegens afkeuring boven- of ondergeschikt[e] record[s])",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29768282075409-8002-Record-is-niet-beoordeeld-wegens-afkeuring-boven-of-ondergeschikt-e-record-s"
+    },
+    {
+      "title": "8003: Declaratieperiode is niet aansluitend of niet volgens afspraak",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29768717920785-8003-Declaratieperiode-is-niet-aansluitend-of-niet-volgens-afspraak"
+    },
+    {
+      "title": "8009: Diagnosecode ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29768994622993-8009-Diagnosecode-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8010: Prestatie mag volgens de contractvoorwaarden met de zorgverzekeraar niet verricht worden door behandelaar/uitvoerder",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29769598406033-8010-Prestatie-mag-volgens-de-contractvoorwaarden-met-de-zorgverzekeraar-niet-verricht-worden-door-behandelaar-uitvoerder"
+    },
+    {
+      "title": "8011: Zorgverlenerscode behandelaar/uitvoerder of specialisme behandelaar/uitvoerder ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29769944522129-8011-Zorgverlenerscode-behandelaar-uitvoerder-of-specialisme-behandelaar-uitvoerder-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8013: Opgegeven prestatie op verzoek van deze voorschrijver/verwijzer is niet declarabel",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29770395709841-8013-Opgegeven-prestatie-op-verzoek-van-deze-voorschrijver-verwijzer-is-niet-declarabel"
+    },
+    {
+      "title": "8014 / 8284 / 9517: Verwijzing ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29796384405649-8014-8284-9517-Verwijzing-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8017: Van deze creditering is geen debitering bekend",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29801026458513-8017-Van-deze-creditering-is-geen-debitering-bekend"
+    },
+    {
+      "title": "8020: Prestatie valt binnen de looptijd van een andere gerelateerde prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29802093383313-8020-Prestatie-valt-binnen-de-looptijd-van-een-andere-gerelateerde-prestatie"
+    },
+    {
+      "title": "8021: Referentienummer dit prestatie- verblijfrecord ontbreekt of is niet uniek (reeds aangeleverd)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29802201048593-8021-Referentienummer-dit-prestatie-verblijfrecord-ontbreekt-of-is-niet-uniek-reeds-aangeleverd"
+    },
+    {
+      "title": "8022: Er is geen contract met aangeduide declarant",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29802330478737-8022-Er-is-geen-contract-met-aangeduide-declarant"
+    },
+    {
+      "title": "8033: Declaratiebedrag ontbreekt of voldoet niet aan format",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29802442463889-8033-Declaratiebedrag-ontbreekt-of-voldoet-niet-aan-format"
+    },
+    {
+      "title": "8058: Combinatie paramedische diagnosecode en code soort indicatie paramedische hulp is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29802865712273-8058-Combinatie-paramedische-diagnosecode-en-code-soort-indicatie-paramedische-hulp-is-onjuist"
+    },
+    {
+      "title": "8060: Er is geen contract met de aangeduide declarant voor de opgegeven prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29803035535889-8060-Er-is-geen-contract-met-de-aangeduide-declarant-voor-de-opgegeven-prestatie"
+    },
+    {
+      "title": "8065: Toeslag gedeclareerd zonder bijbehorende prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29803697036817-8065-Toeslag-gedeclareerd-zonder-bijbehorende-prestatie"
+    },
+    {
+      "title": "8067: Declaratie is reeds eerder ingediend.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33202589397393-8067-Declaratie-is-reeds-eerder-ingediend"
+    },
+    {
+      "title": "8072: Prestatie is afgewezen. Voor meer informatie, neem contact op met de zorgverzekeraar",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29803737643921-8072-Prestatie-is-afgewezen-Voor-meer-informatie-neem-contact-op-met-de-zorgverzekeraar"
+    },
+    {
+      "title": "8074: Declaratie is niet in behandeling genomen. Voor meer informatie, neem contact op met de zorgverzekeraar",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29803814864145-8074-Declaratie-is-niet-in-behandeling-genomen-Voor-meer-informatie-neem-contact-op-met-de-zorgverzekeraar"
+    },
+    {
+      "title": "8101: Verzekerdennummer ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29803994553361-8101-Verzekerdennummer-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8176: Prestatiedatum moet kleiner zijn dan of gelijk zijn aan factuurdatum",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29804608728593-8176-Prestatiedatum-moet-kleiner-zijn-dan-of-gelijk-zijn-aan-factuurdatum"
+    },
+    {
+      "title": "8179: Doorsturen toegestaan moet 1 zijn indien UZOVI-nummer van zorgverzekeraar gevuld is",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29820354418321-8179-Doorsturen-toegestaan-moet-1-zijn-indien-UZOVI-nummer-van-zorgverzekeraar-gevuld-is"
+    },
+    {
+      "title": "8207: Referentienummer dit prestatierecord moet uniek zijn binnen het bestand",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29821949815569-8207-Referentienummer-dit-prestatierecord-moet-uniek-zijn-binnen-het-bestand"
+    },
+    {
+      "title": "8220: Maximum aantal prestaties is overschreden",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29822038242961-8220-Maximum-aantal-prestaties-is-overschreden"
+    },
+    {
+      "title": "8221: Maximale behandelperiode is overschreden",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29822311793297-8221-Maximale-behandelperiode-is-overschreden"
+    },
+    {
+      "title": "8293: Maximum aantal prestaties per kalenderjaar bereikt",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29822736107025-8293-Maximum-aantal-prestaties-per-kalenderjaar-bereikt"
+    },
+    {
+      "title": "8325: Prestatie is niet toegestaan zonder voorgaande prestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29823292178961-8325-Prestatie-is-niet-toegestaan-zonder-voorgaande-prestatie"
+    },
+    {
+      "title": "8381: Deze prestatie mag niet gedeclareerd worden, doordat een andere hiermee samenhangende prestatie niet eerder gedeclareerd is",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29823475962641-8381-Deze-prestatie-mag-niet-gedeclareerd-worden-doordat-een-andere-hiermee-samenhangende-prestatie-niet-eerder-gedeclareerd-is"
+    },
+    {
+      "title": "8407: Gedeclareerde prestatie mag niet uitgevoerd worden bij verzekerde op basis van leeftijd",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29823517917969-8407-Gedeclareerde-prestatie-mag-niet-uitgevoerd-worden-bij-verzekerde-op-basis-van-leeftijd"
+    },
+    {
+      "title": "8408: Deze prestatie voldoet niet in combinatie met een eerdere prestatie bij dezelfde behandelaar/uitvoerder",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29826177502737-8408-Deze-prestatie-voldoet-niet-in-combinatie-met-een-eerdere-prestatie-bij-dezelfde-behandelaar-uitvoerder"
+    },
+    {
+      "title": "8409: Deze prestatie voldoet niet in combinatie met een eerdere prestatie bij een andere behandelaar/uitvoerder",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29827424394897-8409-Deze-prestatie-voldoet-niet-in-combinatie-met-een-eerdere-prestatie-bij-een-andere-behandelaar-uitvoerder"
+    },
+    {
+      "title": "8636: Er is geen contract met de declarant op datum prestatie voor de gedeclareerde combinatie prestatie met diagnosecode",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29827607031441-8636-Er-is-geen-contract-met-de-declarant-op-datum-prestatie-voor-de-gedeclareerde-combinatie-prestatie-met-diagnosecode"
+    },
+    {
+      "title": "8639: Combinatie diagnosecode paramedische hulp en prestatie is niet toegestaan",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29827702235665-8639-Combinatie-diagnosecode-paramedische-hulp-en-prestatie-is-niet-toegestaan"
+    },
+    {
+      "title": "8640: Combinatie code soort indicatie (CSI), diagnosecode paramedische hulp en prestatie is niet toegestaan",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29828313094417-8640-Combinatie-code-soort-indicatie-CSI-diagnosecode-paramedische-hulp-en-prestatie-is-niet-toegestaan"
+    },
+    {
+      "title": "8895: Specialisme voorschrijver/verwijzer ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29828645204369-8895-Specialisme-voorschrijver-verwijzer-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "8905: Datum afgifte indicatiebesluit moet ingevuld zijn",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29828988126353-8905-Datum-afgifte-indicatiebesluit-moet-ingevuld-zijn"
+    },
+    {
+      "title": "8980: Prestatiecode kan niet zonder bijbehorende hoofdprestatie worden gedeclareerd.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33203141772433-8980-Prestatiecode-kan-niet-zonder-bijbehorende-hoofdprestatie-worden-gedeclareerd"
+    },
+    {
+      "title": "8983: Declaratie betreft geen Zvw-zorg",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829022545169-8983-Declaratie-betreft-geen-Zvw-zorg"
+    },
+    {
+      "title": "8984: Prestatie is reeds gedeclareerd door dezelfde zorgverlener",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829481199889-8984-Prestatie-is-reeds-gedeclareerd-door-dezelfde-zorgverlener"
+    },
+    {
+      "title": "8989: Begindatum moet gelijk zijn aan of vroeger zijn dan de verzenddatum.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38127329251857-8989-Begindatum-moet-gelijk-zijn-aan-of-vroeger-zijn-dan-de-verzenddatum"
+    },
+    {
+      "title": "9085: Code soort indicatie paramedische hulp niet toegestaan bij leeftijd verzekerde",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829592996881-9085-Code-soort-indicatie-paramedische-hulp-niet-toegestaan-bij-leeftijd-verzekerde"
+    },
+    {
+      "title": "9088: Nog niet alle vereiste behandelingen met code soort indicatie paramedische hulp 008 zijn gedeclareerd",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829700286865-9088-Nog-niet-alle-vereiste-behandelingen-met-code-soort-indicatie-paramedische-hulp-008-zijn-gedeclareerd"
+    },
+    {
+      "title": "9089: Gedeclareerde zorg valt onder de vergoeding vanuit de Zorgverzekeringswet, code soort indicatie paramedische hulp onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829776979985-9089-Gedeclareerde-zorg-valt-onder-de-vergoeding-vanuit-de-Zorgverzekeringswet-code-soort-indicatie-paramedische-hulp-onjuist"
+    },
+    {
+      "title": "9091: Gedeclareerde zorg valt niet onder de vergoeding vanuit de zorgverzekeringswet, code soort indicatie paramedische hulp onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829829998609-9091-Gedeclareerde-zorg-valt-niet-onder-de-vergoeding-vanuit-de-zorgverzekeringswet-code-soort-indicatie-paramedische-hulp-onjuist"
+    },
+    {
+      "title": "9269: Waarde UZOVI-nummer moet gelijk zijn aan waarde Ontvanger in Header",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38403892551953-9269-Waarde-UZOVI-nummer-moet-gelijk-zijn-aan-waarde-Ontvanger-in-Header"
+    },
+    {
+      "title": "9285: Verwijsdatum moet kleiner zijn dan of gelijk zijn aan Begindatum DebetPrestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33199795210513-9285-Verwijsdatum-moet-kleiner-zijn-dan-of-gelijk-zijn-aan-Begindatum-DebetPrestatie"
+    },
+    {
+      "title": "9290: ZorgtrajectStartdatum moet kleiner zijn dan of gelijk zijn aan begindatum DebetPrestatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38031991413521-9290-ZorgtrajectStartdatum-moet-kleiner-zijn-dan-of-gelijk-zijn-aan-begindatum-DebetPrestatie"
+    },
+    {
+      "title": "9349: Zorgaanbiedercode in Zorgaanbieder komt niet voor in AGB-register",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29829923466897-9349-Zorgaanbiedercode-in-Zorgaanbieder-komt-niet-voor-in-AGB-register"
+    },
+    {
+      "title": "9371: Zorgaanbiedercode in Verwijzer komt niet voor in AGB-register.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33190321478545-9371-Zorgaanbiedercode-in-Verwijzer-komt-niet-voor-in-AGB-register"
+    },
+    {
+      "title": "9373: Voor Zorgaanbiedercode in Verwijzer ligt Verwijsdatum op of na expiratiedatum zorgaanbiedercode in AGB-register.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33203574560913-9373-Voor-Zorgaanbiedercode-in-Verwijzer-ligt-Verwijsdatum-op-of-na-expiratiedatum-zorgaanbiedercode-in-AGB-register"
+    },
+    {
+      "title": "9421: ApkCodelijstCode moet waarde 001 hebben.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032169774737-9421-ApkCodelijstCode-moet-waarde-001-hebben"
+    },
+    {
+      "title": "9422: ZorgaanbiederRol moet waarde 01 hebben.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032274231057-9422-ZorgaanbiederRol-moet-waarde-01-hebben"
+    },
+    {
+      "title": "9437: Er staat meer dan één zorgtrajectnummer tegelijk open bij dezelfde zorgaanbieder",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032054118033-9437-Er-staat-meer-dan-%C3%A9%C3%A9n-zorgtrajectnummer-tegelijk-open-bij-dezelfde-zorgaanbieder"
+    },
+    {
+      "title": "9471: ZorgtrajectStartdatum is niet gelijk aan ZorgtrajectStartdatum van voorgaande zorgtrajectnummer.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38030379399057-9471-ZorgtrajectStartdatum-is-niet-gelijk-aan-ZorgtrajectStartdatum-van-voorgaande-zorgtrajectnummer"
+    },
+    {
+      "title": "9482: Verwijzer en verwijsdatum mogen niet voorkomen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38649892826001-9482-Verwijzer-en-verwijsdatum-mogen-niet-voorkomen"
+    },
+    {
+      "title": "9485: TypeVerwijzingcode mag niet waarde 05 hebben",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38650643042577-9485-TypeVerwijzingcode-mag-niet-waarde-05-hebben"
+    },
+    {
+      "title": "9510: Declarant/Zorgaanbiedercode voor DeclaratieContext in combinatie met ZorgaanbiederSoort bestaat niet in AGB-register.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032292180241-9510-Declarant-Zorgaanbiedercode-voor-DeclaratieContext-in-combinatie-met-ZorgaanbiederSoort-bestaat-niet-in-AGB-register"
+    },
+    {
+      "title": "9525: AGB-code regiebehandelaar ontbreekt.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39754716780817-9525-AGB-code-regiebehandelaar-ontbreekt"
+    },
+    {
+      "title": "9546: Zorgvraagtypering uit DiagnoseCodelijstCode 031 ontbreekt",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29830625921809-9546-Zorgvraagtypering-uit-DiagnoseCodelijstCode-031-ontbreekt"
+    },
+    {
+      "title": "9556 – Zorgaanbiedercode, ZorgaanbiederSoort of ZorgaanbiederRol ontbreekt of is onjuist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40709744924689-9556-Zorgaanbiedercode-ZorgaanbiederSoort-of-ZorgaanbiederRol-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "9579: Aanspraak startdatum moet kleiner of gelijk zijn aan Zorgtraject/startdatum",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38030316942353-9579-Aanspraak-startdatum-moet-kleiner-of-gelijk-zijn-aan-Zorgtraject-startdatum"
+    },
+    {
+      "title": "9648: Startdatum ligt na registratie eerste prestatie van dit traject.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32194986958225-9648-Startdatum-ligt-na-registratie-eerste-prestatie-van-dit-traject"
+    },
+    {
+      "title": "9649: Aanspraak is elders al gestart",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44388905732497-9649-Aanspraak-is-elders-al-gestart"
+    },
+    {
+      "title": "9668: DiagnoseCode komt niet voor in DCSPH codelijst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032069570833-9668-DiagnoseCode-komt-niet-voor-in-DCSPH-codelijst"
+    },
+    {
+      "title": "9672: Geldende aanspraakperiode is verlopen.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33764232830609-9672-Geldende-aanspraakperiode-is-verlopen"
+    },
+    {
+      "title": "9675: Zorgtrajectnummer ontbreekt of is onjuist.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38030367885329-9675-Zorgtrajectnummer-ontbreekt-of-is-onjuist"
+    },
+    {
+      "title": "9678: Elke wijziging in diagnosecode leidt tot nieuw zorgtraject",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50467103388689-9678-Elke-wijziging-in-diagnosecode-leidt-tot-nieuw-zorgtraject"
+    },
+    {
+      "title": "9679: Elke wijziging in toelichtinglichaamslocatie leidt tot nieuw zorgtraject.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33191572410513-9679-Elke-wijziging-in-toelichtinglichaamslocatie-leidt-tot-nieuw-zorgtraject"
+    },
+    {
+      "title": "9703: Bij afkeuren zelfstandige prestatie of set van prestaties alle onderliggende prestaties afkeuren.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35503348973329-9703-Bij-afkeuren-zelfstandige-prestatie-of-set-van-prestaties-alle-onderliggende-prestaties-afkeuren"
+    },
+    {
+      "title": "9712: Zorgtrajectnummer is in gebruik bij een ander zorgtraject.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45767574681873-9712-Zorgtrajectnummer-is-in-gebruik-bij-een-ander-zorgtraject"
+    },
+    {
+      "title": "9773: ToelichtingLichaamslocatie mag alleen worden opgenomen bij diagnosecodes waarbij dit als verplichting is aangegeven in de DCSPH lijst.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032155412625-9773-ToelichtingLichaamslocatie-mag-alleen-worden-opgenomen-bij-diagnosecodes-waarbij-dit-als-verplichting-is-aangegeven-in-de-DCSPH-lijst"
+    },
+    {
+      "title": "9774: ToelichtingLichaamslocatie moet worden opgenomen bij diagnosecodes waarbij dit als verplichting is aangegeven in de DCSPH lijst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38032104542225-9774-ToelichtingLichaamslocatie-moet-worden-opgenomen-bij-diagnosecodes-waarbij-dit-als-verplichting-is-aangegeven-in-de-DCSPH-lijst"
+    },
+    {
+      "title": "Accountbeheer",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32635127112465-Accountbeheer"
+    },
+    {
+      "title": "Afspraaktype verwijderen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26168283153297-Afspraaktype-verwijderen"
+    },
+    {
+      "title": "Afspraaktypes > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29379987341969-Afspraaktypes-open"
+    },
+    {
+      "title": "Algemene afspraak > Open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45288579451793-Algemene-afspraak-Open"
+    },
+    {
+      "title": "Artikelen > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29455831755665-Artikelen-open"
+    },
+    {
+      "title": "BRS03: Indiener is niet gemachtigd om namens de afzender het bericht in te dienen.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37241871191953-BRS03-Indiener-is-niet-gemachtigd-om-namens-de-afzender-het-bericht-in-te-dienen"
+    },
+    {
+      "title": "Cliëntondersteuning: Hoe registreer ik cliëntgebonden tijd?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43944914154129-Cli%C3%ABntondersteuning-Hoe-registreer-ik-cli%C3%ABntgebonden-tijd"
+    },
+    {
+      "title": "Consult > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29673976162705-Consult-open"
+    },
+    {
+      "title": "Consult status: Consult in de toekomst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276110170641-Consult-status-Consult-in-de-toekomst"
+    },
+    {
+      "title": "Consult status: COV check ontbreekt",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276289279761-Consult-status-COV-check-ontbreekt"
+    },
+    {
+      "title": "Consult status: De ruimte op de polis ontbreekt",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276010553873-Consult-status-De-ruimte-op-de-polis-ontbreekt"
+    },
+    {
+      "title": "Consult status: Niet alle indicaties zijn ingevuld",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276361053201-Consult-status-Niet-alle-indicaties-zijn-ingevuld"
+    },
+    {
+      "title": "Consult status: Open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37275370399121-Consult-status-Open"
+    },
+    {
+      "title": "Consult status: Verwijderd uit declaratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276037062289-Consult-status-Verwijderd-uit-declaratie"
+    },
+    {
+      "title": "Consult status: Verwijzing mist",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276185250705-Consult-status-Verwijzing-mist"
+    },
+    {
+      "title": "Consult status: Zorgtraject niet compleet",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37276173432849-Consult-status-Zorgtraject-niet-compleet"
+    },
+    {
+      "title": "Contactpersonen > Open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39178737086353-Contactpersonen-Open"
+    },
+    {
+      "title": "Contract > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29450659597329-Contract-open"
+    },
+    {
+      "title": "COV (Controle Op Verzekeringsgegevens)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30438199350545-COV-Controle-Op-Verzekeringsgegevens"
+    },
+    {
+      "title": "De locatie waarop ik de afspraak wil maken, staat niet in het rijtje.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26166099857681-De-locatie-waarop-ik-de-afspraak-wil-maken-staat-niet-in-het-rijtje"
+    },
+    {
+      "title": "Declaratiestatussen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36348751425297-Declaratiestatussen"
+    },
+    {
+      "title": "Dosiersjabloon Toolbox item: Vragenlijst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36107440142865-Dosiersjabloon-Toolbox-item-Vragenlijst"
+    },
+    {
+      "title": "Dossiersjabloon > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29486170926865-Dossiersjabloon-open"
+    },
+    {
+      "title": "Dossiersjabloon gewijzigd; hoe zit het nu met mijn rapporten en e-mails?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30431852675857-Dossiersjabloon-gewijzigd-hoe-zit-het-nu-met-mijn-rapporten-en-e-mails"
+    },
+    {
+      "title": "Dossiersjabloon instellen: Algemene instellingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34857436029457-Dossiersjabloon-instellen-Algemene-instellingen"
+    },
+    {
+      "title": "Dossiersjabloon instellen: Fase instellingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34860677466897-Dossiersjabloon-instellen-Fase-instellingen"
+    },
+    {
+      "title": "Dossiersjabloon instellen: Stap instellingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34864477712401-Dossiersjabloon-instellen-Stap-instellingen"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Conclusie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34895810524049-Dossiersjabloon-Toolbox-item-Conclusie"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox Item: Dagjournaal",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34895828737937-Dossiersjabloon-Toolbox-Item-Dagjournaal"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Meerkeuzevraag",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34887875998225-Dossiersjabloon-Toolbox-item-Meerkeuzevraag"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Metingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34890429418129-Dossiersjabloon-Toolbox-item-Metingen"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Orthomanueel",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34895825695377-Dossiersjabloon-Toolbox-item-Orthomanueel"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Rode vlag",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34893931308689-Dossiersjabloon-Toolbox-item-Rode-vlag"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Selectievakjes",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34868672693521-Dossiersjabloon-Toolbox-item-Selectievakjes"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Tabel",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34894951977617-Dossiersjabloon-Toolbox-item-Tabel"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Titel",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34866804306833-Dossiersjabloon-Toolbox-item-Titel"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Vraag",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34867719244433-Dossiersjabloon-Toolbox-item-Vraag"
+    },
+    {
+      "title": "Dossiersjabloon Toolbox item: Vrije tekst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34868263924497-Dossiersjabloon-Toolbox-item-Vrije-tekst"
+    },
+    {
+      "title": "Dossiersjabloon: Toolbox items",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34861646184337-Dossiersjabloon-Toolbox-items"
+    },
+    {
+      "title": "Er zijn opeens afspraken uit de agenda verdwenen, wat nu?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26165954968593-Er-zijn-opeens-afspraken-uit-de-agenda-verdwenen-wat-nu"
+    },
+    {
+      "title": "Factuur > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30268644256529-Factuur-open"
+    },
+    {
+      "title": "Factuur > Open > Voeg artikel toe",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30269475814929-Factuur-Open-Voeg-artikel-toe"
+    },
+    {
+      "title": "Factuur > open > voeg korting toe",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30364018385937-Factuur-open-voeg-korting-toe"
+    },
+    {
+      "title": "Factuur > Open > Voeg toe/ Open (factuurregel)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30268592993937-Factuur-Open-Voeg-toe-Open-factuurregel"
+    },
+    {
+      "title": "Factuur of Declaratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29762613274641-Factuur-of-Declaratie"
+    },
+    {
+      "title": "Financieel > Consulten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29066915305489-Financieel-Consulten"
+    },
+    {
+      "title": "Financieel > Declaraties",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28903364577937-Financieel-Declaraties"
+    },
+    {
+      "title": "Financieel > Declaraties > geopend declaratiebestand",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29035827083537-Financieel-Declaraties-geopend-declaratiebestand"
+    },
+    {
+      "title": "Financieel > Export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29067020487697-Financieel-Export"
+    },
+    {
+      "title": "Financieel > export > financiële export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48874759941009-Financieel-export-financi%C3%ABle-export"
+    },
+    {
+      "title": "Financieel > Facturen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29037504355345-Financieel-Facturen"
+    },
+    {
+      "title": "Financieel > Paarse Excel",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29069487586705-Financieel-Paarse-Excel"
+    },
+    {
+      "title": "Fout bij versturen declaratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32074937231505-Fout-bij-versturen-declaratie"
+    },
+    {
+      "title": "Fout bij versturen: De behandelaar heeft geen geldige AGB code.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32353319662737-Fout-bij-versturen-De-behandelaar-heeft-geen-geldige-AGB-code"
+    },
+    {
+      "title": "Fout bij versturen: De verwijzer heeft geen geldige AGB code.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32353229970449-Fout-bij-versturen-De-verwijzer-heeft-geen-geldige-AGB-code"
+    },
+    {
+      "title": "Fout bij versturen: Met de gekozen diagnose is het invullen van de toelichting lichaamslocatie verplicht.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32353186785681-Fout-bij-versturen-Met-de-gekozen-diagnose-is-het-invullen-van-de-toelichting-lichaamslocatie-verplicht"
+    },
+    {
+      "title": "Fout bij versturen: Om een toeslag te kunnen declareren voor een zorgprofiel moet eerst het zorgprofiel zijn aangemaakt en gedeclareerd zijn.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32353357291921-Fout-bij-versturen-Om-een-toeslag-te-kunnen-declareren-voor-een-zorgprofiel-moet-eerst-het-zorgprofiel-zijn-aangemaakt-en-gedeclareerd-zijn"
+    },
+    {
+      "title": "Foutmelding \"Je kunt de indicaties van het gekoppeld zorgtraject niet in het consult aanpassen. Open het zorgtraject en pas het daar aan\".",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40496333111057-Foutmelding-Je-kunt-de-indicaties-van-het-gekoppeld-zorgtraject-niet-in-het-consult-aanpassen-Open-het-zorgtraject-en-pas-het-daar-aan"
+    },
+    {
+      "title": "GGZ (ZPM): Hoe genereer ik een factuur of declaratie via de afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37136264479505-GGZ-ZPM-Hoe-genereer-ik-een-factuur-of-declaratie-via-de-afspraak"
+    },
+    {
+      "title": "Groepsafspraak > Open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30269468850961-Groepsafspraak-Open"
+    },
+    {
+      "title": "Groepsafspraak GC codes ZPM",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37072103589137-Groepsafspraak-GC-codes-ZPM"
+    },
+    {
+      "title": "Heb ik een systeemcertificaat nodig?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30815952622865-Heb-ik-een-systeemcertificaat-nodig"
+    },
+    {
+      "title": "Het afsprakenportaal",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29600059372689-Het-afsprakenportaal"
+    },
+    {
+      "title": "Het lukt me niet mijn afspraak te verwijderen.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26019866223505-Het-lukt-me-niet-mijn-afspraak-te-verwijderen"
+    },
+    {
+      "title": "Het patiëntenportaal",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29607540061201-Het-pati%C3%ABntenportaal"
+    },
+    {
+      "title": "Het rechtermuisknop menu in de agenda",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47637607062673-Het-rechtermuisknop-menu-in-de-agenda"
+    },
+    {
+      "title": "Hoe activeer ik Jane AI?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41384897512977-Hoe-activeer-ik-Jane-AI"
+    },
+    {
+      "title": "Hoe annuleer ik een medewerker?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32462156259345-Hoe-annuleer-ik-een-medewerker"
+    },
+    {
+      "title": "Hoe beëindig ik mijn overeenkomst met James en regel ik mijn bewaarplicht?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48591050964113-Hoe-be%C3%ABindig-ik-mijn-overeenkomst-met-James-en-regel-ik-mijn-bewaarplicht"
+    },
+    {
+      "title": "Hoe boek ik een groepsafspraak door?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35688825646609-Hoe-boek-ik-een-groepsafspraak-door"
+    },
+    {
+      "title": "Hoe boek ik een patiëntafspraak door naar een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30647186906769-Hoe-boek-ik-een-pati%C3%ABntafspraak-door-naar-een-consult"
+    },
+    {
+      "title": "Hoe controleer ik mijn diagnose met de DCSPH lijst?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38052640162705-Hoe-controleer-ik-mijn-diagnose-met-de-DCSPH-lijst"
+    },
+    {
+      "title": "Hoe crediteer ik een declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29766271042193-Hoe-crediteer-ik-een-declaratie"
+    },
+    {
+      "title": "Hoe crediteer ik een factuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30712652567825-Hoe-crediteer-ik-een-factuur"
+    },
+    {
+      "title": "Hoe crediteer ik een verzamelfactuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34497191406737-Hoe-crediteer-ik-een-verzamelfactuur"
+    },
+    {
+      "title": "Hoe declareer ik aan het CAK?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46064221451025-Hoe-declareer-ik-aan-het-CAK"
+    },
+    {
+      "title": "Hoe declareer ik als een praktijk of als een instelling?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30469664830353-Hoe-declareer-ik-als-een-praktijk-of-als-een-instelling"
+    },
+    {
+      "title": "Hoe declareer ik een zorgprofiel?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30265603091857-Hoe-declareer-ik-een-zorgprofiel"
+    },
+    {
+      "title": "Hoe declareer ik valpreventie of beweeginterventie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44735454843921-Hoe-declareer-ik-valpreventie-of-beweeginterventie"
+    },
+    {
+      "title": "Hoe declareer ik via Infomedics?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50992711078033-Hoe-declareer-ik-via-Infomedics"
+    },
+    {
+      "title": "Hoe declareer ik via Vecozo?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30261813282321-Hoe-declareer-ik-via-Vecozo"
+    },
+    {
+      "title": "Hoe deel ik mijn patiënten met een andere James praktijkomgeving?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30796717648657-Hoe-deel-ik-mijn-pati%C3%ABnten-met-een-andere-James-praktijkomgeving"
+    },
+    {
+      "title": "Hoe download ik een Infomedics declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30641383468433-Hoe-download-ik-een-Infomedics-declaratie"
+    },
+    {
+      "title": "Hoe e-mail ik  een dagjournaal?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32606563035793-Hoe-e-mail-ik-een-dagjournaal"
+    },
+    {
+      "title": "Hoe exporteer of stuur ik facturen en declaraties naar mijn boekhouding?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50136071955985-Hoe-exporteer-of-stuur-ik-facturen-en-declaraties-naar-mijn-boekhouding"
+    },
+    {
+      "title": "Hoe factureer ik aan een instelling? (bedrijf, school, etc.)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30900751038737-Hoe-factureer-ik-aan-een-instelling-bedrijf-school-etc"
+    },
+    {
+      "title": "Hoe factureer ik aan Zilveren Kruis Buitenlands Recht?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47316253866385-Hoe-factureer-ik-aan-Zilveren-Kruis-Buitenlands-Recht"
+    },
+    {
+      "title": "Hoe factureer ik behandelingen die niet door de verzekeraar worden vergoed?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47107079963793-Hoe-factureer-ik-behandelingen-die-niet-door-de-verzekeraar-worden-vergoed"
+    },
+    {
+      "title": "Hoe factureer ik een abonnement?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39566161771665-Hoe-factureer-ik-een-abonnement"
+    },
+    {
+      "title": "Hoe factureer ik verschillende tarieven voor dezelfde behandeling?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47280187646737-Hoe-factureer-ik-verschillende-tarieven-voor-dezelfde-behandeling"
+    },
+    {
+      "title": "Hoe factureer ik?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30502993628817-Hoe-factureer-ik"
+    },
+    {
+      "title": "Hoe gebruik ik automatische velden in een mail- of Word-tekstsjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44431692609297-Hoe-gebruik-ik-automatische-velden-in-een-mail-of-Word-tekstsjabloon"
+    },
+    {
+      "title": "Hoe gebruik ik het Diëtetiek overzicht?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50947623374609-Hoe-gebruik-ik-het-Di%C3%ABtetiek-overzicht"
+    },
+    {
+      "title": "Hoe gebruik ik Jane AI in een dagjournaal?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41394640370449-Hoe-gebruik-ik-Jane-AI-in-een-dagjournaal"
+    },
+    {
+      "title": "Hoe gebruik ik Jane AI in één vrij tekstveld?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50230595369361-Hoe-gebruik-ik-Jane-AI-in-%C3%A9%C3%A9n-vrij-tekstveld"
+    },
+    {
+      "title": "Hoe gebruik ik Jane AI voor het hele behandeldossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41384887862929-Hoe-gebruik-ik-Jane-AI-voor-het-hele-behandeldossier"
+    },
+    {
+      "title": "Hoe gebruik ik recepten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47759113878417-Hoe-gebruik-ik-recepten"
+    },
+    {
+      "title": "Hoe geef ik coulance op basis van het bedrag dat de verzekeraar vergoedt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47282933404433-Hoe-geef-ik-coulance-op-basis-van-het-bedrag-dat-de-verzekeraar-vergoedt"
+    },
+    {
+      "title": "Hoe geef ik een patiënt toegang tot een portaal?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30710754928017-Hoe-geef-ik-een-pati%C3%ABnt-toegang-tot-een-portaal"
+    },
+    {
+      "title": "Hoe genereer ik een factuur i.p.v. een declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36324354500625-Hoe-genereer-ik-een-factuur-i-p-v-een-declaratie"
+    },
+    {
+      "title": "Hoe haal ik de retourinformatie op van de verstuurde declaraties?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38125035452945-Hoe-haal-ik-de-retourinformatie-op-van-de-verstuurde-declaraties"
+    },
+    {
+      "title": "Hoe handel ik een Infomedics declaratie af?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30059395538321-Hoe-handel-ik-een-Infomedics-declaratie-af"
+    },
+    {
+      "title": "Hoe herhaal ik een rooster of afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51510397766929-Hoe-herhaal-ik-een-rooster-of-afspraak"
+    },
+    {
+      "title": "Hoe herstel ik een verkeerde verwerking van een afgewezen declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48477195111441-Hoe-herstel-ik-een-verkeerde-verwerking-van-een-afgewezen-declaratie"
+    },
+    {
+      "title": "Hoe importeer ik een contract?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30220471503505-Hoe-importeer-ik-een-contract"
+    },
+    {
+      "title": "Hoe kan een patiënt interactie hebben met de praktijk?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49506936994321-Hoe-kan-een-pati%C3%ABnt-interactie-hebben-met-de-praktijk"
+    },
+    {
+      "title": "Hoe kan ik automatische mails per patiënt in het Engels versturen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40132769988625-Hoe-kan-ik-automatische-mails-per-pati%C3%ABnt-in-het-Engels-versturen"
+    },
+    {
+      "title": "Hoe kan ik e-mails ontvangen van registraties van patiënten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27855480243857-Hoe-kan-ik-e-mails-ontvangen-van-registraties-van-pati%C3%ABnten"
+    },
+    {
+      "title": "Hoe kan ik een alternatief tarief instellen voor een factuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45834223627281-Hoe-kan-ik-een-alternatief-tarief-instellen-voor-een-factuur"
+    },
+    {
+      "title": "Hoe kan ik een contract verwijderen/annuleren?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30723746545681-Hoe-kan-ik-een-contract-verwijderen-annuleren"
+    },
+    {
+      "title": "Hoe kan ik een patiënt aanbieden bij mijn PREM?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27855160307985-Hoe-kan-ik-een-pati%C3%ABnt-aanbieden-bij-mijn-PREM"
+    },
+    {
+      "title": "Hoe kan ik een zorgprofieltraject stoppen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27858076862865-Hoe-kan-ik-een-zorgprofieltraject-stoppen"
+    },
+    {
+      "title": "Hoe kan ik mijn agenda bekijken en doorbladeren via de James app?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49547669534225-Hoe-kan-ik-mijn-agenda-bekijken-en-doorbladeren-via-de-James-app"
+    },
+    {
+      "title": "Hoe kan ik mijn tekstsjablonen controleren en verbeteren?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30199799922705-Hoe-kan-ik-mijn-tekstsjablonen-controleren-en-verbeteren"
+    },
+    {
+      "title": "Hoe kan ik twee verschillende tarieven gebruiken voor dezelfde officiële prestatie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43893609222801-Hoe-kan-ik-twee-verschillende-tarieven-gebruiken-voor-dezelfde-offici%C3%ABle-prestatie"
+    },
+    {
+      "title": "Hoe koppel ik de BSN check/ mijn UZI certificaat?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434155832465-Hoe-koppel-ik-de-BSN-check-mijn-UZI-certificaat"
+    },
+    {
+      "title": "Hoe koppel ik de James app?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49547491556753-Hoe-koppel-ik-de-James-app"
+    },
+    {
+      "title": "Hoe koppel ik een PREM vragenlijst aan James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30718895150353-Hoe-koppel-ik-een-PREM-vragenlijst-aan-James"
+    },
+    {
+      "title": "Hoe koppel ik een prestatie aan een afspraak(type)?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29382470760465-Hoe-koppel-ik-een-prestatie-aan-een-afspraak-type"
+    },
+    {
+      "title": "Hoe koppel ik een ZorgDomein verwijzing aan een patiëntenkaart?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37238788092177-Hoe-koppel-ik-een-ZorgDomein-verwijzing-aan-een-pati%C3%ABntenkaart"
+    },
+    {
+      "title": "Hoe koppel ik Embloom?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34499293611665-Hoe-koppel-ik-Embloom"
+    },
+    {
+      "title": "Hoe koppel ik Ergovergoeding?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434310493201-Hoe-koppel-ik-Ergovergoeding"
+    },
+    {
+      "title": "Hoe koppel ik Fysiovergoeding?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434244595857-Hoe-koppel-ik-Fysiovergoeding"
+    },
+    {
+      "title": "Hoe koppel ik met Diabetes Voetencheck?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43247338489745-Hoe-koppel-ik-met-Diabetes-Voetencheck"
+    },
+    {
+      "title": "Hoe koppel ik met DMVoetzorg?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434393249681-Hoe-koppel-ik-met-DMVoetzorg"
+    },
+    {
+      "title": "Hoe koppel ik met E-boekhouden?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48802573719441-Hoe-koppel-ik-met-E-boekhouden"
+    },
+    {
+      "title": "Hoe koppel ik met Exact Online?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36070929233297-Hoe-koppel-ik-met-Exact-Online"
+    },
+    {
+      "title": "Hoe koppel ik met FarMedZ?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434365605649-Hoe-koppel-ik-met-FarMedZ"
+    },
+    {
+      "title": "Hoe koppel ik met LFT?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434203022609-Hoe-koppel-ik-met-LFT"
+    },
+    {
+      "title": "Hoe koppel ik met Nivel? (LDF/LDO/LDK)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36097871357969-Hoe-koppel-ik-met-Nivel-LDF-LDO-LDK"
+    },
+    {
+      "title": "Hoe koppel ik met Snelstart?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41593737095185-Hoe-koppel-ik-met-Snelstart"
+    },
+    {
+      "title": "Hoe koppel ik met Twinfield?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36071156923537-Hoe-koppel-ik-met-Twinfield"
+    },
+    {
+      "title": "Hoe koppel ik met Vecozo? (toestemmingsverklaringen)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30260267904913-Hoe-koppel-ik-met-Vecozo-toestemmingsverklaringen"
+    },
+    {
+      "title": "Hoe koppel ik mijn e-mail aan James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30789418699793-Hoe-koppel-ik-mijn-e-mail-aan-James"
+    },
+    {
+      "title": "Hoe koppel ik mijn MDR labelprinter?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29765034834705-Hoe-koppel-ik-mijn-MDR-labelprinter"
+    },
+    {
+      "title": "Hoe koppel ik Mollie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30058915257617-Hoe-koppel-ik-Mollie"
+    },
+    {
+      "title": "Hoe koppel ik Payt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37498426691089-Hoe-koppel-ik-Payt"
+    },
+    {
+      "title": "Hoe koppel ik Physitrack?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30862976016657-Hoe-koppel-ik-Physitrack"
+    },
+    {
+      "title": "Hoe koppel ik Qualiview - Reflectum (ROM)?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32638941438481-Hoe-koppel-ik-Qualiview-Reflectum-ROM"
+    },
+    {
+      "title": "Hoe koppel ik QuestPro?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30301245992209-Hoe-koppel-ik-QuestPro"
+    },
+    {
+      "title": "Hoe koppel ik Zivver?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30401855163153-Hoe-koppel-ik-Zivver"
+    },
+    {
+      "title": "Hoe koppel ik Zorgdomein aan mijn praktijk?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29641590688017-Hoe-koppel-ik-Zorgdomein-aan-mijn-praktijk"
+    },
+    {
+      "title": "Hoe koppel/activeer ik ZorgMail?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30471267263249-Hoe-koppel-activeer-ik-ZorgMail"
+    },
+    {
+      "title": "Hoe lees ik een gedownload declaratiebestand?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51110572563345-Hoe-lees-ik-een-gedownload-declaratiebestand"
+    },
+    {
+      "title": "Hoe los ik een tegengehouden consult met status 'Open' op?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30829906792465-Hoe-los-ik-een-tegengehouden-consult-met-status-Open-op"
+    },
+    {
+      "title": "Hoe los ik een tegengehouden consult met status 'Zorgtraject niet compleet' op?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35937229286417-Hoe-los-ik-een-tegengehouden-consult-met-status-Zorgtraject-niet-compleet-op"
+    },
+    {
+      "title": "Hoe maak ik een actie aan voor de patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29605872895249-Hoe-maak-ik-een-actie-aan-voor-de-pati%C3%ABnt"
+    },
+    {
+      "title": "Hoe maak ik een algemene afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27854901980305-Hoe-maak-ik-een-algemene-afspraak"
+    },
+    {
+      "title": "Hoe maak ik een algemene afspraaktype aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26938117629329-Hoe-maak-ik-een-algemene-afspraaktype-aan"
+    },
+    {
+      "title": "Hoe maak ik een consult voor een zorgprofiel afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27857976081425-Hoe-maak-ik-een-consult-voor-een-zorgprofiel-afspraak"
+    },
+    {
+      "title": "Hoe maak ik een consult zonder factuur of declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37820338019217-Hoe-maak-ik-een-consult-zonder-factuur-of-declaratie"
+    },
+    {
+      "title": "Hoe maak ik een contract aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47112191032849-Hoe-maak-ik-een-contract-aan"
+    },
+    {
+      "title": "Hoe maak ik een dossieruitdraai?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36761620255761-Hoe-maak-ik-een-dossieruitdraai"
+    },
+    {
+      "title": "Hoe maak ik een export van de agenda?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27854532216721-Hoe-maak-ik-een-export-van-de-agenda"
+    },
+    {
+      "title": "Hoe maak ik een externe instellingsfactuur aan via een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47386993919505-Hoe-maak-ik-een-externe-instellingsfactuur-aan-via-een-consult"
+    },
+    {
+      "title": "Hoe maak ik een factuur die de patiënt zelf kan declareren bij hun zorgverzekeraar?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35331069686801-Hoe-maak-ik-een-factuur-die-de-pati%C3%ABnt-zelf-kan-declareren-bij-hun-zorgverzekeraar"
+    },
+    {
+      "title": "Hoe maak ik een financiële export?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44658899889041-Hoe-maak-ik-een-financi%C3%ABle-export"
+    },
+    {
+      "title": "Hoe maak ik een groepsafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30264808254225-Hoe-maak-ik-een-groepsafspraak"
+    },
+    {
+      "title": "Hoe maak ik een groepsafspraaktype?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30725862458897-Hoe-maak-ik-een-groepsafspraaktype"
+    },
+    {
+      "title": "Hoe maak ik een losse externe instellingsfactuur aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47386967637393-Hoe-maak-ik-een-losse-externe-instellingsfactuur-aan"
+    },
+    {
+      "title": "Hoe maak ik een losse factuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30648164698769-Hoe-maak-ik-een-losse-factuur"
+    },
+    {
+      "title": "Hoe maak ik een mail sjabloon voor een vragenlijst?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30505904272273-Hoe-maak-ik-een-mail-sjabloon-voor-een-vragenlijst"
+    },
+    {
+      "title": "Hoe maak ik een mail-tekstsjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27706760815505-Hoe-maak-ik-een-mail-tekstsjabloon"
+    },
+    {
+      "title": "Hoe maak ik een mailsjabloon aan voor Zorgmail en/of ZorgDomein?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27706672321937-Hoe-maak-ik-een-mailsjabloon-aan-voor-Zorgmail-en-of-ZorgDomein"
+    },
+    {
+      "title": "Hoe maak ik een mailsjabloon voor de dagjournalen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43275480517649-Hoe-maak-ik-een-mailsjabloon-voor-de-dagjournalen"
+    },
+    {
+      "title": "Hoe maak ik een MDR verklaring aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29765929837841-Hoe-maak-ik-een-MDR-verklaring-aan"
+    },
+    {
+      "title": "Hoe maak ik een nieuw rooster?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30859384268945-Hoe-maak-ik-een-nieuw-rooster"
+    },
+    {
+      "title": "Hoe maak ik een oproep?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40190159083281-Hoe-maak-ik-een-oproep"
+    },
+    {
+      "title": "Hoe maak ik een oproeplink voor een oproepmailsjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45343057590289-Hoe-maak-ik-een-oproeplink-voor-een-oproepmailsjabloon"
+    },
+    {
+      "title": "Hoe maak ik een patiënt afspraaktype aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26940322996753-Hoe-maak-ik-een-pati%C3%ABnt-afspraaktype-aan"
+    },
+    {
+      "title": "Hoe maak ik een patiëntafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25902696566801-Hoe-maak-ik-een-pati%C3%ABntafspraak"
+    },
+    {
+      "title": "Hoe maak ik een rapport? (brief/ verslag)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38298107162769-Hoe-maak-ik-een-rapport-brief-verslag"
+    },
+    {
+      "title": "Hoe maak ik een reeks afspraken / herhaalafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29644629281297-Hoe-maak-ik-een-reeks-afspraken-herhaalafspraak"
+    },
+    {
+      "title": "Hoe maak ik een tekstsjabloon voor een oproep?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30861671584401-Hoe-maak-ik-een-tekstsjabloon-voor-een-oproep"
+    },
+    {
+      "title": "Hoe maak ik een to-do categorie aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27644952877841-Hoe-maak-ik-een-to-do-categorie-aan"
+    },
+    {
+      "title": "Hoe maak ik een verzamelfactuur aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32084229533201-Hoe-maak-ik-een-verzamelfactuur-aan"
+    },
+    {
+      "title": "Hoe maak ik een vragenlijstlink voor een vragenlijst mailsjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45343287176209-Hoe-maak-ik-een-vragenlijstlink-voor-een-vragenlijst-mailsjabloon"
+    },
+    {
+      "title": "Hoe maak ik een Word-tekstsjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45341525055121-Hoe-maak-ik-een-Word-tekstsjabloon"
+    },
+    {
+      "title": "Hoe maak ik een zorgprofiel aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27858009296529-Hoe-maak-ik-een-zorgprofiel-aan"
+    },
+    {
+      "title": "Hoe maak ik een ZPM-afspraaktype aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26168097376785-Hoe-maak-ik-een-ZPM-afspraaktype-aan"
+    },
+    {
+      "title": "Hoe maak ik gebruik van James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46379963701521-Hoe-maak-ik-gebruik-van-James"
+    },
+    {
+      "title": "Hoe maak ik na het crediteren een nieuw factuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30712635238289-Hoe-maak-ik-na-het-crediteren-een-nieuw-factuur"
+    },
+    {
+      "title": "Hoe maak ik voor een gemeente of externe instelling contract aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30722363848593-Hoe-maak-ik-voor-een-gemeente-of-externe-instelling-contract-aan"
+    },
+    {
+      "title": "Hoe maak ik zorgprofielen aan voor het nieuwe jaar?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27700384634257-Hoe-maak-ik-zorgprofielen-aan-voor-het-nieuwe-jaar"
+    },
+    {
+      "title": "Hoe maak/pas ik een dossiersjabloon aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30431263549201-Hoe-maak-pas-ik-een-dossiersjabloon-aan"
+    },
+    {
+      "title": "Hoe parkeer ik automatisch een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27857820997649-Hoe-parkeer-ik-automatisch-een-consult"
+    },
+    {
+      "title": "Hoe parkeer ik een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27857789919889-Hoe-parkeer-ik-een-consult"
+    },
+    {
+      "title": "Hoe pas ik afspraak SMS berichten aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50987370755857-Hoe-pas-ik-afspraak-SMS-berichten-aan"
+    },
+    {
+      "title": "Hoe pas ik de inhoud van afspraakbevestigingen en -herinneringen aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42677780718865-Hoe-pas-ik-de-inhoud-van-afspraakbevestigingen-en-herinneringen-aan"
+    },
+    {
+      "title": "Hoe pas ik een Excel-export aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51491074383505-Hoe-pas-ik-een-Excel-export-aan"
+    },
+    {
+      "title": "Hoe pas ik een verwijzing aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46573381027345-Hoe-pas-ik-een-verwijzing-aan"
+    },
+    {
+      "title": "Hoe pas ik het zorgtrajectnummer en bijbehorende begindatum aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44701341606033-Hoe-pas-ik-het-zorgtrajectnummer-en-bijbehorende-begindatum-aan"
+    },
+    {
+      "title": "Hoe pas ik mijn AGB-codes aan in James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30828673133585-Hoe-pas-ik-mijn-AGB-codes-aan-in-James"
+    },
+    {
+      "title": "Hoe pas ik overzichten aan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49973841046929-Hoe-pas-ik-overzichten-aan"
+    },
+    {
+      "title": "Hoe plan ik een vervolgafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30866846381457-Hoe-plan-ik-een-vervolgafspraak"
+    },
+    {
+      "title": "Hoe print ik een zolenplan?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29765074453393-Hoe-print-ik-een-zolenplan"
+    },
+    {
+      "title": "Hoe regel ik een specialisme in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47174030289425-Hoe-regel-ik-een-specialisme-in"
+    },
+    {
+      "title": "Hoe regel ik Infomedics of VipLive in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47108757249681-Hoe-regel-ik-Infomedics-of-VipLive-in"
+    },
+    {
+      "title": "Hoe regel ik mijn urenverantwoording voor de BIG-herregistratie of het register preverbale logopedie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43246890696849-Hoe-regel-ik-mijn-urenverantwoording-voor-de-BIG-herregistratie-of-het-register-preverbale-logopedie"
+    },
+    {
+      "title": "Hoe registreer je MDR?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37849439250449-Hoe-registreer-je-MDR"
+    },
+    {
+      "title": "Hoe richt ik een medewerker in voor JW/Wmo?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41717839043985-Hoe-richt-ik-een-medewerker-in-voor-JW-Wmo"
+    },
+    {
+      "title": "Hoe richt ik JW/Wmo in voor mijn praktijk?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41359204017553-Hoe-richt-ik-JW-Wmo-in-voor-mijn-praktijk"
+    },
+    {
+      "title": "Hoe richt ik mijn dossiersjabloon conform LDF/LDO/LDK richtlijn?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30861432553745-Hoe-richt-ik-mijn-dossiersjabloon-conform-LDF-LDO-LDK-richtlijn"
+    },
+    {
+      "title": "Hoe richt ik mijn dossiersjabloon in voor Jane AI?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41584760346641-Hoe-richt-ik-mijn-dossiersjabloon-in-voor-Jane-AI"
+    },
+    {
+      "title": "Hoe richt ik mijn praktijk in voor een afsprakenbureau?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38421695745681-Hoe-richt-ik-mijn-praktijk-in-voor-een-afsprakenbureau"
+    },
+    {
+      "title": "Hoe sluit ik een patiëntenkaart af?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38470959135249-Hoe-sluit-ik-een-pati%C3%ABntenkaart-af"
+    },
+    {
+      "title": "Hoe start ik een (tweede) zorgtraject?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30708492524689-Hoe-start-ik-een-tweede-zorgtraject"
+    },
+    {
+      "title": "Hoe start ik een traject met of zonder verwijzing?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46570865232401-Hoe-start-ik-een-traject-met-of-zonder-verwijzing"
+    },
+    {
+      "title": "Hoe stel ik het MDR in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29764615863697-Hoe-stel-ik-het-MDR-in"
+    },
+    {
+      "title": "Hoe stel ik landingspagina's in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48874070815121-Hoe-stel-ik-landingspagina-s-in"
+    },
+    {
+      "title": "Hoe stel ik vrije notitievelden in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30860998709521-Hoe-stel-ik-vrije-notitievelden-in"
+    },
+    {
+      "title": "Hoe stuur ik afspraakbevestigingen en/of herinneringen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26168166119953-Hoe-stuur-ik-afspraakbevestigingen-en-of-herinneringen"
+    },
+    {
+      "title": "Hoe stuur ik een factuur via Zorgmail of Zivver?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30059053891217-Hoe-stuur-ik-een-factuur-via-Zorgmail-of-Zivver"
+    },
+    {
+      "title": "Hoe stuur ik een oproep?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40190216033425-Hoe-stuur-ik-een-oproep"
+    },
+    {
+      "title": "Hoe valideert James de prestatie (GGZ)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49915240664593-Hoe-valideert-James-de-prestatie-GGZ"
+    },
+    {
+      "title": "Hoe verander ik de standaard vergoedende verzekeraar?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37498681569297-Hoe-verander-ik-de-standaard-vergoedende-verzekeraar"
+    },
+    {
+      "title": "Hoe verbeter ik een Infomedics declaratie die onterecht de status 'Geaccepteerd' heeft?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35657965696401-Hoe-verbeter-ik-een-Infomedics-declaratie-die-onterecht-de-status-Geaccepteerd-heeft"
+    },
+    {
+      "title": "Hoe vergelijk ik mijn boekhouding met facturen en declaraties in James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43813620766225-Hoe-vergelijk-ik-mijn-boekhouding-met-facturen-en-declaraties-in-James"
+    },
+    {
+      "title": "Hoe verplicht ik een verwijzing?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30674406961553-Hoe-verplicht-ik-een-verwijzing"
+    },
+    {
+      "title": "Hoe verstuur ik een bericht of verwijzing via ZorgDomein?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31468509862033-Hoe-verstuur-ik-een-bericht-of-verwijzing-via-ZorgDomein"
+    },
+    {
+      "title": "Hoe verstuur ik een document dat in James staat via Zorgdomein?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/33404499201809-Hoe-verstuur-ik-een-document-dat-in-James-staat-via-Zorgdomein"
+    },
+    {
+      "title": "Hoe verstuur ik een e-mail?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30501864826513-Hoe-verstuur-ik-een-e-mail"
+    },
+    {
+      "title": "Hoe verstuur ik handmatig een vragenlijst?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30504147029137-Hoe-verstuur-ik-handmatig-een-vragenlijst"
+    },
+    {
+      "title": "Hoe verstuur ik mails via Zorgmail of Zivver?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27706768420369-Hoe-verstuur-ik-mails-via-Zorgmail-of-Zivver"
+    },
+    {
+      "title": "Hoe vervang ik een prestatie op een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30869593256593-Hoe-vervang-ik-een-prestatie-op-een-consult"
+    },
+    {
+      "title": "Hoe verwerk ik een afgewezen declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30264396277137-Hoe-verwerk-ik-een-afgewezen-declaratie"
+    },
+    {
+      "title": "Hoe verwerk ik een nabetaling van de zorgverzekeraar?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30264281449873-Hoe-verwerk-ik-een-nabetaling-van-de-zorgverzekeraar"
+    },
+    {
+      "title": "Hoe verwerk ik geïmporteerde contracten rond de jaarwisseling?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51385055176593-Hoe-verwerk-ik-ge%C3%AFmporteerde-contracten-rond-de-jaarwisseling"
+    },
+    {
+      "title": "Hoe verwijder ik afspraken uit de agenda?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47785065980049-Hoe-verwijder-ik-afspraken-uit-de-agenda"
+    },
+    {
+      "title": "Hoe verwijder ik cache en cookies?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30712124399505-Hoe-verwijder-ik-cache-en-cookies"
+    },
+    {
+      "title": "Hoe verwijder ik een zorgprofiel consult",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32961156256657-Hoe-verwijder-ik-een-zorgprofiel-consult"
+    },
+    {
+      "title": "Hoe verwijs ik in een mail- of Wordsjabloon naar velden in mijn behandeldossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30861116638225-Hoe-verwijs-ik-in-een-mail-of-Wordsjabloon-naar-velden-in-mijn-behandeldossier"
+    },
+    {
+      "title": "Hoe voeg ik als podotherapeut of huidtherapeut een contract toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30898119338129-Hoe-voeg-ik-als-podotherapeut-of-huidtherapeut-een-contract-toe"
+    },
+    {
+      "title": "Hoe voeg ik bij de jaarwissel nieuwe tarieven toe aan mijn tarieflijsten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42534511672081-Hoe-voeg-ik-bij-de-jaarwissel-nieuwe-tarieven-toe-aan-mijn-tarieflijsten"
+    },
+    {
+      "title": "Hoe voeg ik bij de jaarwissel NZa-tarieven toe aan ZPM-tarieflijsten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32826342445073-Hoe-voeg-ik-bij-de-jaarwissel-NZa-tarieven-toe-aan-ZPM-tarieflijsten"
+    },
+    {
+      "title": "Hoe voeg ik een (Bekken) Fysiotherapie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46158847095825-Hoe-voeg-ik-een-Bekken-Fysiotherapie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een algemeen vergoedingspercentage toe of pas ik dit aan in een ZPM contract?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30851378015889-Hoe-voeg-ik-een-algemeen-vergoedingspercentage-toe-of-pas-ik-dit-aan-in-een-ZPM-contract"
+    },
+    {
+      "title": "Hoe voeg ik een contract toe voor overige zorg (OS301)?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31062586682897-Hoe-voeg-ik-een-contract-toe-voor-overige-zorg-OS301"
+    },
+    {
+      "title": "Hoe voeg ik een Diëtetiek tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159256501905-Hoe-voeg-ik-een-Di%C3%ABtetiek-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een doelgroep toe aan een zorginstelling?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41506417656593-Hoe-voeg-ik-een-doelgroep-toe-aan-een-zorginstelling"
+    },
+    {
+      "title": "Hoe voeg ik een Ergotherapie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159129652369-Hoe-voeg-ik-een-Ergotherapie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een externe instelling toe waaraan ik kan factureren?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30724023794193-Hoe-voeg-ik-een-externe-instelling-toe-waaraan-ik-kan-factureren"
+    },
+    {
+      "title": "Hoe voeg ik een GLI tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159815330193-Hoe-voeg-ik-een-GLI-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een handmatige verzekering toe aan de patiëntenkaart?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49062886737425-Hoe-voeg-ik-een-handmatige-verzekering-toe-aan-de-pati%C3%ABntenkaart"
+    },
+    {
+      "title": "Hoe voeg ik een herhaling toe aan mijn dossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29839006670993-Hoe-voeg-ik-een-herhaling-toe-aan-mijn-dossier"
+    },
+    {
+      "title": "Hoe voeg ik een Huidtherapie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159398688657-Hoe-voeg-ik-een-Huidtherapie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een huisarts, bedrijfsarts of verwijzer toe aan een patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30475303513745-Hoe-voeg-ik-een-huisarts-bedrijfsarts-of-verwijzer-toe-aan-een-pati%C3%ABnt"
+    },
+    {
+      "title": "Hoe voeg ik een Logopedie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159006879249-Hoe-voeg-ik-een-Logopedie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een machtiging toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25897380116241-Hoe-voeg-ik-een-machtiging-toe"
+    },
+    {
+      "title": "Hoe voeg ik een Mantelzorgmakelaar tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46160367011601-Hoe-voeg-ik-een-Mantelzorgmakelaar-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuw contractueel tarief toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31456589810193-Hoe-voeg-ik-een-nieuw-contractueel-tarief-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuw intern tarief toe en hoe werken tariefwisselingen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30597364540945-Hoe-voeg-ik-een-nieuw-intern-tarief-toe-en-hoe-werken-tariefwisselingen"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe medewerker toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32459655851537-Hoe-voeg-ik-een-nieuwe-medewerker-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe patiënt toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30058816241425-Hoe-voeg-ik-een-nieuwe-pati%C3%ABnt-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe prestatie toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30598146085649-Hoe-voeg-ik-een-nieuwe-prestatie-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30599373176977-Hoe-voeg-ik-een-nieuwe-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe tarieflijst voor een externe instelling toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46158284678545-Hoe-voeg-ik-een-nieuwe-tarieflijst-voor-een-externe-instelling-toe"
+    },
+    {
+      "title": "Hoe voeg ik een nieuwe zorgverzekeraar toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49060691039377-Hoe-voeg-ik-een-nieuwe-zorgverzekeraar-toe"
+    },
+    {
+      "title": "Hoe voeg ik een Oefentherapie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46158897576337-Hoe-voeg-ik-een-Oefentherapie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een ontbrekende huisarts, bedrijfsarts of verwijzer toe aan mijn praktijkomgeving?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31466695778705-Hoe-voeg-ik-een-ontbrekende-huisarts-bedrijfsarts-of-verwijzer-toe-aan-mijn-praktijkomgeving"
+    },
+    {
+      "title": "Hoe voeg ik een patiënt factuur tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46158442255633-Hoe-voeg-ik-een-pati%C3%ABnt-factuur-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een patiënt toe aan de wachtlijst?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43212798265105-Hoe-voeg-ik-een-pati%C3%ABnt-toe-aan-de-wachtlijst"
+    },
+    {
+      "title": "Hoe voeg ik een Podotherapie tarieflijst toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46159999281681-Hoe-voeg-ik-een-Podotherapie-tarieflijst-toe"
+    },
+    {
+      "title": "Hoe voeg ik een standaard tekst toe aan een tekstveld?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30430341071249-Hoe-voeg-ik-een-standaard-tekst-toe-aan-een-tekstveld"
+    },
+    {
+      "title": "Hoe voeg ik een tarieflijst toe voor JW/Wmo?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41368187439889-Hoe-voeg-ik-een-tarieflijst-toe-voor-JW-Wmo"
+    },
+    {
+      "title": "Hoe voeg ik een to-do toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27644766650769-Hoe-voeg-ik-een-to-do-toe"
+    },
+    {
+      "title": "Hoe voeg ik een verwijzing toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30059343987089-Hoe-voeg-ik-een-verwijzing-toe"
+    },
+    {
+      "title": "Hoe voeg ik een vragenlijst toe (toolbox item) in mijn dossiersjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31229132645009-Hoe-voeg-ik-een-vragenlijst-toe-toolbox-item-in-mijn-dossiersjabloon"
+    },
+    {
+      "title": "Hoe voeg ik een zorgvraagtypering en DSM5 toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38473341412497-Hoe-voeg-ik-een-zorgvraagtypering-en-DSM5-toe"
+    },
+    {
+      "title": "Hoe voeg ik een ZPM contract toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30467450817041-Hoe-voeg-ik-een-ZPM-contract-toe"
+    },
+    {
+      "title": "Hoe voeg ik een ZPM prestatie voor overige prestaties, toeslag of verblijfsdag toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45250473959953-Hoe-voeg-ik-een-ZPM-prestatie-voor-overige-prestaties-toeslag-of-verblijfsdag-toe"
+    },
+    {
+      "title": "Hoe voeg ik een ZPM tarieflijsten toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31204278626705-Hoe-voeg-ik-een-ZPM-tarieflijsten-toe"
+    },
+    {
+      "title": "Hoe voeg ik een ZPM zorgtraject toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36179866048273-Hoe-voeg-ik-een-ZPM-zorgtraject-toe"
+    },
+    {
+      "title": "Hoe voeg ik handmatig een contract toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39934725542289-Hoe-voeg-ik-handmatig-een-contract-toe"
+    },
+    {
+      "title": "Hoe voeg ik per ZPM prestatie een vergoedingspercentage of vergoedingstarief toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36130212640145-Hoe-voeg-ik-per-ZPM-prestatie-een-vergoedingspercentage-of-vergoedingstarief-toe"
+    },
+    {
+      "title": "Hoe voeg ik via de James-app een document, foto of verwijzing toe?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49547820519313-Hoe-voeg-ik-via-de-James-app-een-document-foto-of-verwijzing-toe"
+    },
+    {
+      "title": "Hoe voer ik voor meerdere patiënten een COV-check uit?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51386862032017-Hoe-voer-ik-voor-meerdere-pati%C3%ABnten-een-COV-check-uit"
+    },
+    {
+      "title": "Hoe werk ik een contract bij?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38921791793937-Hoe-werk-ik-een-contract-bij"
+    },
+    {
+      "title": "Hoe werk ik een dossier bij naar een nieuwe versie van het dossiersjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30431411007249-Hoe-werk-ik-een-dossier-bij-naar-een-nieuwe-versie-van-het-dossiersjabloon"
+    },
+    {
+      "title": "Hoe werken Fysiovergoeding & Ergovergoeding?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434796666385-Hoe-werken-Fysiovergoeding-Ergovergoeding"
+    },
+    {
+      "title": "Hoe werkt de factuuropmaak voor onverzekerde zorg?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39864271897745-Hoe-werkt-de-factuuropmaak-voor-onverzekerde-zorg"
+    },
+    {
+      "title": "Hoe werkt de factuuropmaak voor verzekerde zorg? (OS301)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39863857040913-Hoe-werkt-de-factuuropmaak-voor-verzekerde-zorg-OS301"
+    },
+    {
+      "title": "Hoe werkt de nieuwe factuuropmaak voor verzekerde zorg? (GDS801)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39829744835729-Hoe-werkt-de-nieuwe-factuuropmaak-voor-verzekerde-zorg-GDS801"
+    },
+    {
+      "title": "Hoe werkt Ergo-vergoeding?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30434764360849-Hoe-werkt-Ergo-vergoeding"
+    },
+    {
+      "title": "Hoe werkt indirecte tijd in James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47437961973009-Hoe-werkt-indirecte-tijd-in-James"
+    },
+    {
+      "title": "Hoe wijzig ik de rechten/ toegang van medewerkers?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30782334473105-Hoe-wijzig-ik-de-rechten-toegang-van-medewerkers"
+    },
+    {
+      "title": "Hoe wijzig ik praktijk breed de toegang van een dossier, rapport, document, dagjournaal of e-mail?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35307950546193-Hoe-wijzig-ik-praktijk-breed-de-toegang-van-een-dossier-rapport-document-dagjournaal-of-e-mail"
+    },
+    {
+      "title": "Hoe wissel ik een consult van zorgtraject?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45266963725329-Hoe-wissel-ik-een-consult-van-zorgtraject"
+    },
+    {
+      "title": "Hoe wordt de factuur opgebouwd?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49505242646673-Hoe-wordt-de-factuur-opgebouwd"
+    },
+    {
+      "title": "Hoe zet ik automatische afspraakmails per afspraak aan of uit?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49174824301201-Hoe-zet-ik-automatische-afspraakmails-per-afspraak-aan-of-uit"
+    },
+    {
+      "title": "Hoe zet ik een factuurregel om naar declaratieregel?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47619946010257-Hoe-zet-ik-een-factuurregel-om-naar-declaratieregel"
+    },
+    {
+      "title": "Hoe zet ik een terugkerende patiënt klaar voor een nieuw traject?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48624246492049-Hoe-zet-ik-een-terugkerende-pati%C3%ABnt-klaar-voor-een-nieuw-traject"
+    },
+    {
+      "title": "Hoe zet ik mijn agenda dicht of plan ik een vrij moment in?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40597997124369-Hoe-zet-ik-mijn-agenda-dicht-of-plan-ik-een-vrij-moment-in"
+    },
+    {
+      "title": "Hoe zie ik de omzet van alle medewerkers?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43814109198097-Hoe-zie-ik-de-omzet-van-alle-medewerkers"
+    },
+    {
+      "title": "Hoe zorg ik dat patiënten onderdelen van het dossier kunnen zien of wijzigen via het patiëntenportaal?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30865128172177-Hoe-zorg-ik-dat-pati%C3%ABnten-onderdelen-van-het-dossier-kunnen-zien-of-wijzigen-via-het-pati%C3%ABntenportaal"
+    },
+    {
+      "title": "Home > Berichten (JW/Wmo)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41709040008081-Home-Berichten-JW-Wmo"
+    },
+    {
+      "title": "Home > Boekhoudkoppeling fouten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40893706392209-Home-Boekhoudkoppeling-fouten"
+    },
+    {
+      "title": "Home > DataBank",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27892591727505-Home-DataBank"
+    },
+    {
+      "title": "Home > Email logging",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28051374980113-Home-Email-logging"
+    },
+    {
+      "title": "Home > Export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27923341404177-Home-Export"
+    },
+    {
+      "title": "Home > Export > Afspraken export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098002968081-Home-Export-Afspraken-export"
+    },
+    {
+      "title": "Home > Export > Consulten en afspraken export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098015576209-Home-Export-Consulten-en-afspraken-export"
+    },
+    {
+      "title": "Home > Export > Consulten export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43097993096465-Home-Export-Consulten-export"
+    },
+    {
+      "title": "Home > Export > Dagjournalen export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098068229265-Home-Export-Dagjournalen-export"
+    },
+    {
+      "title": "Home > Export > Dossier export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098181643153-Home-Export-Dossier-export"
+    },
+    {
+      "title": "Home > Export > JW productieverantwoording",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47625232222481-Home-Export-JW-productieverantwoording"
+    },
+    {
+      "title": "Home > Export > NZA Jaarverantwoording",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47621590240145-Home-Export-NZA-Jaarverantwoording"
+    },
+    {
+      "title": "Home > Export > Onderhanden werk export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098066052497-Home-Export-Onderhanden-werk-export"
+    },
+    {
+      "title": "Home > Export > Patiënten export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43097945960465-Home-Export-Pati%C3%ABnten-export"
+    },
+    {
+      "title": "Home > Export > Patiënten per huisarts",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45158668474385-Home-Export-Pati%C3%ABnten-per-huisarts"
+    },
+    {
+      "title": "Home > Export > Prestaties dagjournaal export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098105293329-Home-Export-Prestaties-dagjournaal-export"
+    },
+    {
+      "title": "Home > Export > Zorgprofielen export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44849350397713-Home-Export-Zorgprofielen-export"
+    },
+    {
+      "title": "Home > Export > Zorgtrajecten export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098072419729-Home-Export-Zorgtrajecten-export"
+    },
+    {
+      "title": "Home > Nivel Zorgregistratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27889903426833-Home-Nivel-Zorgregistratie"
+    },
+    {
+      "title": "Home > Oproepen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27859514452241-Home-Oproepen"
+    },
+    {
+      "title": "Home > PREM (tevredenheidsonderzoek)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27673087066641-Home-PREM-tevredenheidsonderzoek"
+    },
+    {
+      "title": "Home > Rapportages",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27890463256337-Home-Rapportages"
+    },
+    {
+      "title": "Home > Rapportages > Omzet consulten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43132092137617-Home-Rapportages-Omzet-consulten"
+    },
+    {
+      "title": "Home > Rapportages > Omzet consulten per medewerker",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43094098065425-Home-Rapportages-Omzet-consulten-per-medewerker"
+    },
+    {
+      "title": "Home > Statistieken",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29610455827089-Home-Statistieken"
+    },
+    {
+      "title": "Home > Statistieken > CBS-rapportage",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35934321303313-Home-Statistieken-CBS-rapportage"
+    },
+    {
+      "title": "Home > Statistieken > NZA Jaarverantwoording",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34233314474641-Home-Statistieken-NZA-Jaarverantwoording"
+    },
+    {
+      "title": "Home > Statistieken > Omzet",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34086959544465-Home-Statistieken-Omzet"
+    },
+    {
+      "title": "Home > statistieken > Omzet en aantal consulten per medewerker",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48474523013777-Home-statistieken-Omzet-en-aantal-consulten-per-medewerker"
+    },
+    {
+      "title": "Home > Statistieken > Patiënten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34087047839249-Home-Statistieken-Pati%C3%ABnten"
+    },
+    {
+      "title": "Home > Statistieken > Patiënten zonder recente afspraak",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42639200384913-Home-Statistieken-Pati%C3%ABnten-zonder-recente-afspraak"
+    },
+    {
+      "title": "Home > Statistieken > Planning zorgtrajecten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34233221363857-Home-Statistieken-Planning-zorgtrajecten"
+    },
+    {
+      "title": "Home > Statistieken > Productie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34233271194129-Home-Statistieken-Productie"
+    },
+    {
+      "title": "Home > Statistieken > Urenrapportage",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34086989907601-Home-Statistieken-Urenrapportage"
+    },
+    {
+      "title": "Home > Statistieken > VerzekeraarStatistieken",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34233321030545-Home-Statistieken-VerzekeraarStatistieken"
+    },
+    {
+      "title": "Home > Statistieken > Vragenlijsten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34230181301265-Home-Statistieken-Vragenlijsten"
+    },
+    {
+      "title": "Home > To Do",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27644615501073-Home-To-Do"
+    },
+    {
+      "title": "Home > To do > Open afgewezen declaratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39957433533329-Home-To-do-Open-afgewezen-declaratie"
+    },
+    {
+      "title": "Home > Voetenchecker",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27888766099473-Home-Voetenchecker"
+    },
+    {
+      "title": "Home > Vragenlijsten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27861560680337-Home-Vragenlijsten"
+    },
+    {
+      "title": "Home > Zivver",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30368392730129-Home-Zivver"
+    },
+    {
+      "title": "Home > ZorgDomein",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27673213400465-Home-ZorgDomein"
+    },
+    {
+      "title": "Home > Zorgmail",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27673122885905-Home-Zorgmail"
+    },
+    {
+      "title": "Home > Zorgprofielen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27673238142097-Home-Zorgprofielen"
+    },
+    {
+      "title": "Home > Zorgvraagtypering",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27922209929745-Home-Zorgvraagtypering"
+    },
+    {
+      "title": "Ik heb een afspraak doorgeboekt, kan ik het consult nog verwijderen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25902325068689-Ik-heb-een-afspraak-doorgeboekt-kan-ik-het-consult-nog-verwijderen"
+    },
+    {
+      "title": "Ik heb per ongeluk een afspraak in de toekomst doorgeboekt. Wat nu?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48710784768529-Ik-heb-per-ongeluk-een-afspraak-in-de-toekomst-doorgeboekt-Wat-nu"
+    },
+    {
+      "title": "Ik heb per ongeluk een to-do van een niet doorgeboekte afspraak verwijderd, wat nu?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27644862882193-Ik-heb-per-ongeluk-een-to-do-van-een-niet-doorgeboekte-afspraak-verwijderd-wat-nu"
+    },
+    {
+      "title": "Ik krijg de melding dat mijn sessie wordt beëindigd. Wat nu?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46880578685585-Ik-krijg-de-melding-dat-mijn-sessie-wordt-be%C3%ABindigd-Wat-nu"
+    },
+    {
+      "title": "Ik werk contractvrij, moet ik officiële prestatiecodes gebruiken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38829539083153-Ik-werk-contractvrij-moet-ik-offici%C3%ABle-prestatiecodes-gebruiken"
+    },
+    {
+      "title": "Infomedics en VIPLive instellen in James",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38266139724945-Infomedics-en-VIPLive-instellen-in-James"
+    },
+    {
+      "title": "Inloggen bij James",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29630480985489-Inloggen-bij-James"
+    },
+    {
+      "title": "Intern of contractueel tarief?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30716151471889-Intern-of-contractueel-tarief"
+    },
+    {
+      "title": "Is er vandaag een storing bij James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30848673616657-Is-er-vandaag-een-storing-bij-James"
+    },
+    {
+      "title": "James houdt het verplaatsen van een afspraak tegen.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26018756397841-James-houdt-het-verplaatsen-van-een-afspraak-tegen"
+    },
+    {
+      "title": "Jane AI",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41395592793489-Jane-AI"
+    },
+    {
+      "title": "Jane AI FAQ",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41078877382289-Jane-AI-FAQ"
+    },
+    {
+      "title": "JW/ WMO - Realisatie in min per maand export",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43098170934417-JW-WMO-Realisatie-in-min-per-maand-export"
+    },
+    {
+      "title": "JW/Wmo berichten(verkeer)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41790623775889-JW-Wmo-berichten-verkeer"
+    },
+    {
+      "title": "JW/WMO: Hoe registreer ik behandeltijd?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41872793579921-JW-WMO-Hoe-registreer-ik-behandeltijd"
+    },
+    {
+      "title": "JW301: Toewijzing Jeugdhulp | WMO301: Wmo-ondersteuning",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42154666601873-JW301-Toewijzing-Jeugdhulp-WMO301-Wmo-ondersteuning"
+    },
+    {
+      "title": "JW305: Start Jeugdhulp | WMO305: Start Wmo-ondersteuning",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42154833653905-JW305-Start-Jeugdhulp-WMO305-Start-Wmo-ondersteuning"
+    },
+    {
+      "title": "JW307: Stop Jeugdhulp | WMO307: Stop Wmo-ondersteuning",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42154915266577-JW307-Stop-Jeugdhulp-WMO307-Stop-Wmo-ondersteuning"
+    },
+    {
+      "title": "JW315: Verzoek om toewijzing Jeugdhulp | WMO315: Verzoek om toewijzing Wmo-ondersteuning",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42155113826833-JW315-Verzoek-om-toewijzing-Jeugdhulp-WMO315-Verzoek-om-toewijzing-Wmo-ondersteuning"
+    },
+    {
+      "title": "JW317: Verzoek om wijziging | WMO317: Verzoek om wijziging Wmo-hulp",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42155307917969-JW317-Verzoek-om-wijziging-WMO317-Verzoek-om-wijziging-Wmo-hulp"
+    },
+    {
+      "title": "Kan ik aangeven dat een afspraak online of telefonisch plaatsvindt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41330276962449-Kan-ik-aangeven-dat-een-afspraak-online-of-telefonisch-plaatsvindt"
+    },
+    {
+      "title": "Kan ik aanspraakcodes automatiseren?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31006862459665-Kan-ik-aanspraakcodes-automatiseren"
+    },
+    {
+      "title": "Kan ik automatisch (persoons)gegevens toevoegen aan een mail of rapport?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30867555251601-Kan-ik-automatisch-persoons-gegevens-toevoegen-aan-een-mail-of-rapport"
+    },
+    {
+      "title": "Kan ik de layout van de factuur aanpassen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30989531808529-Kan-ik-de-layout-van-de-factuur-aanpassen"
+    },
+    {
+      "title": "Kan ik de standaard indeling en (jaartal)prefix van de factuurnummer aanpassen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/42010105279889-Kan-ik-de-standaard-indeling-en-jaartal-prefix-van-de-factuurnummer-aanpassen"
+    },
+    {
+      "title": "Kan ik de tijdzone in James veranderen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44436417996689-Kan-ik-de-tijdzone-in-James-veranderen"
+    },
+    {
+      "title": "Kan ik een afgesloten dossiersjabloon weer actief zetten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30721388780305-Kan-ik-een-afgesloten-dossiersjabloon-weer-actief-zetten"
+    },
+    {
+      "title": "Kan ik een dagjournalen uitdraai maken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46558864843921-Kan-ik-een-dagjournalen-uitdraai-maken"
+    },
+    {
+      "title": "Kan ik een document delen met een patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40891651480977-Kan-ik-een-document-delen-met-een-pati%C3%ABnt"
+    },
+    {
+      "title": "Kan ik een dossier delen met een patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34837680450193-Kan-ik-een-dossier-delen-met-een-pati%C3%ABnt"
+    },
+    {
+      "title": "Kan ik een factuur kwijtschelden of laten vervallen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47308749163025-Kan-ik-een-factuur-kwijtschelden-of-laten-vervallen"
+    },
+    {
+      "title": "Kan ik een herinneringsfactuur sturen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30860688953489-Kan-ik-een-herinneringsfactuur-sturen"
+    },
+    {
+      "title": "Kan ik een limiet zetten op een locatie of kamer?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37019651362321-Kan-ik-een-limiet-zetten-op-een-locatie-of-kamer"
+    },
+    {
+      "title": "Kan ik een los consult maken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30648922752273-Kan-ik-een-los-consult-maken"
+    },
+    {
+      "title": "Kan ik een mail naar al mijn patiënten tegelijk sturen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30860621374993-Kan-ik-een-mail-naar-al-mijn-pati%C3%ABnten-tegelijk-sturen"
+    },
+    {
+      "title": "Kan ik een offerte maken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44186058791313-Kan-ik-een-offerte-maken"
+    },
+    {
+      "title": "Kan ik een patiënt vooraf een intakeformulier sturen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44239007772433-Kan-ik-een-pati%C3%ABnt-vooraf-een-intakeformulier-sturen"
+    },
+    {
+      "title": "Kan ik een patiëntenkaart anonimiseren?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49596478979473-Kan-ik-een-pati%C3%ABntenkaart-anonimiseren"
+    },
+    {
+      "title": "Kan ik een patiëntenkaart verwijderen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36684657213457-Kan-ik-een-pati%C3%ABntenkaart-verwijderen"
+    },
+    {
+      "title": "Kan ik een prestatie uit een tarieflijst stopzetten of verwijderen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46009338612369-Kan-ik-een-prestatie-uit-een-tarieflijst-stopzetten-of-verwijderen"
+    },
+    {
+      "title": "Kan ik een rapport delen met een patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30865180207249-Kan-ik-een-rapport-delen-met-een-pati%C3%ABnt"
+    },
+    {
+      "title": "Kan ik een verzekeraar/ instelling aan een actief contact toevoegen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35861883159697-Kan-ik-een-verzekeraar-instelling-aan-een-actief-contact-toevoegen"
+    },
+    {
+      "title": "Kan ik een vragenlijst meesturen met een afspraakbevestiging?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29382377062545-Kan-ik-een-vragenlijst-meesturen-met-een-afspraakbevestiging"
+    },
+    {
+      "title": "Kan ik een zorgprofiel wijzigen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34469180283281-Kan-ik-een-zorgprofiel-wijzigen"
+    },
+    {
+      "title": "Kan ik extra informatie meesturen met een afspraakbevestiging & -herinneringen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38231591672337-Kan-ik-extra-informatie-meesturen-met-een-afspraakbevestiging-herinneringen"
+    },
+    {
+      "title": "Kan ik het rooster (voor één dag) aanpassen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30788793885073-Kan-ik-het-rooster-voor-%C3%A9%C3%A9n-dag-aanpassen"
+    },
+    {
+      "title": "Kan ik in James registreren dat een factuur of declaratie betaald is?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36312089138193-Kan-ik-in-James-registreren-dat-een-factuur-of-declaratie-betaald-is"
+    },
+    {
+      "title": "Kan ik in één keer de locatie wijzigen van meerdere afspraken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26167548744593-Kan-ik-in-%C3%A9%C3%A9n-keer-de-locatie-wijzigen-van-meerdere-afspraken"
+    },
+    {
+      "title": "Kan ik James met Outlook koppelen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35430305196817-Kan-ik-James-met-Outlook-koppelen"
+    },
+    {
+      "title": "Kan ik James ook in een andere taal instellen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48471585842833-Kan-ik-James-ook-in-een-andere-taal-instellen"
+    },
+    {
+      "title": "Kan ik mails die James automatisch stuurt aanpassen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38506240787217-Kan-ik-mails-die-James-automatisch-stuurt-aanpassen"
+    },
+    {
+      "title": "Kan ik mijn patiënten per SMS notificeren over de afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43757226523025-Kan-ik-mijn-pati%C3%ABnten-per-SMS-notificeren-over-de-afspraak"
+    },
+    {
+      "title": "Kan ik patiëntenkaarten samenvoegen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30577103157521-Kan-ik-pati%C3%ABntenkaarten-samenvoegen"
+    },
+    {
+      "title": "Kan ik per locatie of specialisme een afsprakenportaal inrichten?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47172774740369-Kan-ik-per-locatie-of-specialisme-een-afsprakenportaal-inrichten"
+    },
+    {
+      "title": "Kan ik sneltoetsen gebruiken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30815484025489-Kan-ik-sneltoetsen-gebruiken"
+    },
+    {
+      "title": "Kan ik strippenkaarten inregelen in James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47149409974801-Kan-ik-strippenkaarten-inregelen-in-James"
+    },
+    {
+      "title": "Kan ik tijdens de registratie in het patiëntenportaal een vragenlijst laten invullen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34840931607313-Kan-ik-tijdens-de-registratie-in-het-pati%C3%ABntenportaal-een-vragenlijst-laten-invullen"
+    },
+    {
+      "title": "Kan ik vragen/ tabbladen toevoegen aan een dossiersjabloon?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40776187986577-Kan-ik-vragen-tabbladen-toevoegen-aan-een-dossiersjabloon"
+    },
+    {
+      "title": "Kan ik vragenlijsten en andere behandeldossier onderdelen toevoegen vanuit een database aan een dossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31549920366737-Kan-ik-vragenlijsten-en-andere-behandeldossier-onderdelen-toevoegen-vanuit-een-database-aan-een-dossier"
+    },
+    {
+      "title": "Kan ik één aparte declaratieregel versturen/ downloaden i.p.v. het hele declaratiebestand?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30644626361105-Kan-ik-%C3%A9%C3%A9n-aparte-declaratieregel-versturen-downloaden-i-p-v-het-hele-declaratiebestand"
+    },
+    {
+      "title": "Kun je agenda’s en patiënten afschermen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40791322712081-Kun-je-agenda-s-en-pati%C3%ABnten-afschermen"
+    },
+    {
+      "title": "Kun je videobellen met de patiënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31067941366545-Kun-je-videobellen-met-de-pati%C3%ABnt"
+    },
+    {
+      "title": "Kunnen patiënten met hetzelfde e-mailadres online registreren/ afspraken maken?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40394775714321-Kunnen-pati%C3%ABnten-met-hetzelfde-e-mailadres-online-registreren-afspraken-maken"
+    },
+    {
+      "title": "Locatie > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29295119590545-Locatie-open"
+    },
+    {
+      "title": "Mantelzorgmakelaar: Hoe registreer ik gewerkte tijd?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43945283012625-Mantelzorgmakelaar-Hoe-registreer-ik-gewerkte-tijd"
+    },
+    {
+      "title": "MDR",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29765943873809-MDR"
+    },
+    {
+      "title": "Medewerkers > niet clientgebonden tijd",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29190985498385-Medewerkers-niet-clientgebonden-tijd"
+    },
+    {
+      "title": "Medewerkers > Roosters",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29230294235153-Medewerkers-Roosters"
+    },
+    {
+      "title": "Mijn declaratie is afgewezen. Wat moet ik doen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30716597981585-Mijn-declaratie-is-afgewezen-Wat-moet-ik-doen"
+    },
+    {
+      "title": "Mijn medewerker gaat met zwangerschapsverlof",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32462562314257-Mijn-medewerker-gaat-met-zwangerschapsverlof"
+    },
+    {
+      "title": "Mijn nieuwe GDS801 Infomedics patiënt tarieflijst mist prestaties en/of heeft verkeerde prestatienamen.",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31424602790033-Mijn-nieuwe-GDS801-Infomedics-pati%C3%ABnt-tarieflijst-mist-prestaties-en-of-heeft-verkeerde-prestatienamen"
+    },
+    {
+      "title": "Mijn patiënt heeft patiëntnummer 0, hoe kan dat?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43477676491921-Mijn-pati%C3%ABnt-heeft-pati%C3%ABntnummer-0-hoe-kan-dat"
+    },
+    {
+      "title": "Moet ik een zorglabel toevoegen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43929360490641-Moet-ik-een-zorglabel-toevoegen"
+    },
+    {
+      "title": "Op welke manieren kan ik een patiëntenkaart openen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30503483560721-Op-welke-manieren-kan-ik-een-pati%C3%ABntenkaart-openen"
+    },
+    {
+      "title": "Patientafspraak > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29645903889553-Patientafspraak-open"
+    },
+    {
+      "title": "Patienten > Consulten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28210947114257-Patienten-Consulten"
+    },
+    {
+      "title": "Patienten > Contacten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28111848823185-Patienten-Contacten"
+    },
+    {
+      "title": "Patienten > Overzicht",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28084004863889-Patienten-Overzicht"
+    },
+    {
+      "title": "Patienten > Zorgtrajecten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28116538760209-Patienten-Zorgtrajecten"
+    },
+    {
+      "title": "Patientenkaart > Afspraken",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28312956783633-Patientenkaart-Afspraken"
+    },
+    {
+      "title": "Patientenkaart > Algemeen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28217891009937-Patientenkaart-Algemeen"
+    },
+    {
+      "title": "Patientenkaart > Consulten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28319614481809-Patientenkaart-Consulten"
+    },
+    {
+      "title": "Patientenkaart > Contactpersonen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28320278433425-Patientenkaart-Contactpersonen"
+    },
+    {
+      "title": "Patientenkaart > Dagjournaal",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28252463118097-Patientenkaart-Dagjournaal"
+    },
+    {
+      "title": "Patientenkaart > Diëtetiek",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50863126857873-Patientenkaart-Di%C3%ABtetiek"
+    },
+    {
+      "title": "Patientenkaart > Diëtetiek > Gemiddelde",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50863293170065-Patientenkaart-Di%C3%ABtetiek-Gemiddelde"
+    },
+    {
+      "title": "Patientenkaart > Diëtetiek > Nieuwe meting",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50863210536849-Patientenkaart-Di%C3%ABtetiek-Nieuwe-meting"
+    },
+    {
+      "title": "Patientenkaart > Diëtetiek > Voedingsberekening",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50863256191889-Patientenkaart-Di%C3%ABtetiek-Voedingsberekening"
+    },
+    {
+      "title": "Patientenkaart > Dossiers",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28284317130641-Patientenkaart-Dossiers"
+    },
+    {
+      "title": "Patientenkaart > Notities",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28246894964113-Patientenkaart-Notities"
+    },
+    {
+      "title": "Patientenkaart > Verzekeringen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28320616532369-Patientenkaart-Verzekeringen"
+    },
+    {
+      "title": "Patientenkaart > Zorgprofielen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28317850233105-Patientenkaart-Zorgprofielen"
+    },
+    {
+      "title": "Patientenkaart > Zorgtrajecten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28319266812177-Patientenkaart-Zorgtrajecten"
+    },
+    {
+      "title": "Patiënt of cliënt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30709581742353-Pati%C3%ABnt-of-cli%C3%ABnt"
+    },
+    {
+      "title": "Patiënten > Wachtlijst",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28109218475409-Pati%C3%ABnten-Wachtlijst"
+    },
+    {
+      "title": "Patiëntenkaart > Berichten (JW/Wmo)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41708967619601-Pati%C3%ABntenkaart-Berichten-JW-Wmo"
+    },
+    {
+      "title": "Patiëntenkaart > Documenten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/28311538386193-Pati%C3%ABntenkaart-Documenten"
+    },
+    {
+      "title": "Patiëntenkaart > Dossiers > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39202161240209-Pati%C3%ABntenkaart-Dossiers-open"
+    },
+    {
+      "title": "Patiëntenkaart > dossiers > verwijzing",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30193711132177-Pati%C3%ABntenkaart-dossiers-verwijzing"
+    },
+    {
+      "title": "Patiëntenkaart > Zorgtrajecten > (open) Zorgtraject",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38027387985937-Pati%C3%ABntenkaart-Zorgtrajecten-open-Zorgtraject"
+    },
+    {
+      "title": "Patiëntenkaart statussen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39312938383377-Pati%C3%ABntenkaart-statussen"
+    },
+    {
+      "title": "Patiëntenportaal: Huisstijl toepassen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38438775766673-Pati%C3%ABntenportaal-Huisstijl-toepassen"
+    },
+    {
+      "title": "Patiëntenportaal: Instellingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30715259334417-Pati%C3%ABntenportaal-Instellingen"
+    },
+    {
+      "title": "Patiëntenportaal: Registratie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/38436696839441-Pati%C3%ABntenportaal-Registratie"
+    },
+    {
+      "title": "Portalen / Afsprakenbureau: Hoe bepaal ik wat, waar, wanneer en bij wie ingepland kan worden? (Afspraakvoorstellen)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26167204977809-Portalen-Afsprakenbureau-Hoe-bepaal-ik-wat-waar-wanneer-en-bij-wie-ingepland-kan-worden-Afspraakvoorstellen"
+    },
+    {
+      "title": "Praktijk > Afspraaktypes",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29379755784081-Praktijk-Afspraaktypes"
+    },
+    {
+      "title": "Praktijk > Algemeen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29098419361681-Praktijk-Algemeen"
+    },
+    {
+      "title": "Praktijk > Algemeen > Algemeen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49505738056465-Praktijk-Algemeen-Algemeen"
+    },
+    {
+      "title": "Praktijk > Algemeen > Financiële details",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49507691687825-Praktijk-Algemeen-Financi%C3%ABle-details"
+    },
+    {
+      "title": "Praktijk > Algemeen > Patiëntenportaal",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49507434354705-Praktijk-Algemeen-Pati%C3%ABntenportaal"
+    },
+    {
+      "title": "Praktijk > Algemeen > Professies",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49508080800657-Praktijk-Algemeen-Professies"
+    },
+    {
+      "title": "Praktijk > Artikelen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29453087843985-Praktijk-Artikelen"
+    },
+    {
+      "title": "Praktijk > Bibliotheek",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29597301736721-Praktijk-Bibliotheek"
+    },
+    {
+      "title": "Praktijk > Boekhouding",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29597354418705-Praktijk-Boekhouding"
+    },
+    {
+      "title": "Praktijk > Contracten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29424083390609-Praktijk-Contracten"
+    },
+    {
+      "title": "Praktijk > Dossiersjablonen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29486126340369-Praktijk-Dossiersjablonen"
+    },
+    {
+      "title": "Praktijk > Facturen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/32546766958097-Praktijk-Facturen"
+    },
+    {
+      "title": "Praktijk > Gebruikersgroepen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29102099981073-Praktijk-Gebruikersgroepen"
+    },
+    {
+      "title": "Praktijk > Gebruikersgroepen > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29102400530321-Praktijk-Gebruikersgroepen-open"
+    },
+    {
+      "title": "Praktijk > Locaties",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29292487151761-Praktijk-Locaties"
+    },
+    {
+      "title": "Praktijk > Medewerkers",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29185100155281-Praktijk-Medewerkers"
+    },
+    {
+      "title": "Praktijk > Medewerkers > Agenda-instellingen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29228752067985-Praktijk-Medewerkers-Agenda-instellingen"
+    },
+    {
+      "title": "Praktijk > Medewerkers > Algemeen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29190699618321-Praktijk-Medewerkers-Algemeen"
+    },
+    {
+      "title": "Praktijk > Medewerkers > Beroepsgegevens",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36183026997009-Praktijk-Medewerkers-Beroepsgegevens"
+    },
+    {
+      "title": "Praktijk > Medewerkers > Roosters > (Open)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29291774951953-Praktijk-Medewerkers-Roosters-Open"
+    },
+    {
+      "title": "Praktijk > Online diensten (koppelingen)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29579685920657-Praktijk-Online-diensten-koppelingen"
+    },
+    {
+      "title": "Praktijk > Tarieven",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29387823522577-Praktijk-Tarieven"
+    },
+    {
+      "title": "Praktijk > Tekstsjablonen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29575085099921-Praktijk-Tekstsjablonen"
+    },
+    {
+      "title": "Praktijk > Verwijzers",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29579806343313-Praktijk-Verwijzers"
+    },
+    {
+      "title": "Praktijk > Verzekeraars",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29384483538705-Praktijk-Verzekeraars"
+    },
+    {
+      "title": "Praktijk > Voorkeuren",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29101557997841-Praktijk-Voorkeuren"
+    },
+    {
+      "title": "Praktijk > Voorkeuren > Agenda - Algemeen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49512602965137-Praktijk-Voorkeuren-Agenda-Algemeen"
+    },
+    {
+      "title": "Praktijk > voorkeuren > Consulten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49515417425809-Praktijk-voorkeuren-Consulten"
+    },
+    {
+      "title": "Praktijk > Voorkeuren > Dagjournalen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49512647770641-Praktijk-Voorkeuren-Dagjournalen"
+    },
+    {
+      "title": "Praktijk > Voorkeuren > JW/WMO berichtenverkeer",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49515566285329-Praktijk-Voorkeuren-JW-WMO-berichtenverkeer"
+    },
+    {
+      "title": "Praktijk > Voorkeuren > MDR",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49515630126481-Praktijk-Voorkeuren-MDR"
+    },
+    {
+      "title": "Praktijkinstellingen voor JW/Wmo",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/41360562078225-Praktijkinstellingen-voor-JW-Wmo"
+    },
+    {
+      "title": "Starttraining telefonisten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40243842213905-Starttraining-telefonisten"
+    },
+    {
+      "title": "Stoppen met roken: hoe stuur ik de einddatum mee naar de zorgverzekeraar?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/43828317986065-Stoppen-met-roken-hoe-stuur-ik-de-einddatum-mee-naar-de-zorgverzekeraar"
+    },
+    {
+      "title": "Support contactinformatie",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39284350824337-Support-contactinformatie"
+    },
+    {
+      "title": "Systeem email-sjablonen",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39346009042065-Systeem-email-sjablonen"
+    },
+    {
+      "title": "Tarieflijst > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29392110353937-Tarieflijst-open"
+    },
+    {
+      "title": "Tarieflijst bijwerken naar declaratiestandaard GDS801",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30999636725009-Tarieflijst-bijwerken-naar-declaratiestandaard-GDS801"
+    },
+    {
+      "title": "Tekstsjablonen > Excel sjabloon",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39816516433809-Tekstsjablonen-Excel-sjabloon"
+    },
+    {
+      "title": "Tekstsjablonen > Mail sjabloon",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29578221592593-Tekstsjablonen-Mail-sjabloon"
+    },
+    {
+      "title": "Tekstsjablonen > Word sjabloon",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29579124410513-Tekstsjablonen-Word-sjabloon"
+    },
+    {
+      "title": "Tweefactor Authenticatie (2FA)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30835474366737-Tweefactor-Authenticatie-2FA"
+    },
+    {
+      "title": "Tweefactor authenticatie overzetten of resetten",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46021169955217-Tweefactor-authenticatie-overzetten-of-resetten"
+    },
+    {
+      "title": "Urenverantwoording",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34360584006417-Urenverantwoording"
+    },
+    {
+      "title": "Veranderingen CSI vanaf 1-1-2025",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31659297112593-Veranderingen-CSI-vanaf-1-1-2025"
+    },
+    {
+      "title": "Verwijzers > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29581589611793-Verwijzers-open"
+    },
+    {
+      "title": "Verzamelfactuur > Open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/34496842344593-Verzamelfactuur-Open"
+    },
+    {
+      "title": "Verzekeraars > open",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29384554438161-Verzekeraars-open"
+    },
+    {
+      "title": "Waar gebruik je een contactpersoon voor?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40607411915409-Waar-gebruik-je-een-contactpersoon-voor"
+    },
+    {
+      "title": "Waar kan ik de release notes en nieuwsbrieven van James terugvinden?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37996867385233-Waar-kan-ik-de-release-notes-en-nieuwsbrieven-van-James-terugvinden"
+    },
+    {
+      "title": "Waar moet op gelet worden met een verhuizing?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/37639328797969-Waar-moet-op-gelet-worden-met-een-verhuizing"
+    },
+    {
+      "title": "Waar rekening mee te houden bij een praktijkovername, praktijk AGB-code wijziging of rechtsvorm wijziging?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30459257749905-Waar-rekening-mee-te-houden-bij-een-praktijkovername-praktijk-AGB-code-wijziging-of-rechtsvorm-wijziging"
+    },
+    {
+      "title": "Waar vind ik de geïmporteerde gegevens uit mijn vorige EPD?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/50533097928849-Waar-vind-ik-de-ge%C3%AFmporteerde-gegevens-uit-mijn-vorige-EPD"
+    },
+    {
+      "title": "Waar vind ik het patiënt- of debiteurnummer?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/49514546021393-Waar-vind-ik-het-pati%C3%ABnt-of-debiteurnummer"
+    },
+    {
+      "title": "Waar zie je je To-Do's?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27671885985169-Waar-zie-je-je-To-Do-s"
+    },
+    {
+      "title": "Waarom kan ik een behandelaar niet selecteren bij het maken van een afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26166092122769-Waarom-kan-ik-een-behandelaar-niet-selecteren-bij-het-maken-van-een-afspraak"
+    },
+    {
+      "title": "Waarom kan ik geen afspraaktype kiezen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26166013296529-Waarom-kan-ik-geen-afspraaktype-kiezen"
+    },
+    {
+      "title": "Waarom kan ik geen tekst invoeren in het dossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44385574742417-Waarom-kan-ik-geen-tekst-invoeren-in-het-dossier"
+    },
+    {
+      "title": "Waarom kan ik mijn patiënt niet (meer) vinden?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26166631674001-Waarom-kan-ik-mijn-pati%C3%ABnt-niet-meer-vinden"
+    },
+    {
+      "title": "Waarom klopt het aantal witregels en/of de opmaak van mijn tekst niet?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/31361982004113-Waarom-klopt-het-aantal-witregels-en-of-de-opmaak-van-mijn-tekst-niet"
+    },
+    {
+      "title": "Waarom klopt het tarief van de declaratie niet?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30714245275793-Waarom-klopt-het-tarief-van-de-declaratie-niet"
+    },
+    {
+      "title": "Waarom klopt het tarief van de factuur niet?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30714822057745-Waarom-klopt-het-tarief-van-de-factuur-niet"
+    },
+    {
+      "title": "Waarom krijg ik een factuur i.p.v. een declaratie?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/39648325182865-Waarom-krijg-ik-een-factuur-i-p-v-een-declaratie"
+    },
+    {
+      "title": "Waarom mist mijn afspraak een streep (balk) in de agenda?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40291799012881-Waarom-mist-mijn-afspraak-een-streep-balk-in-de-agenda"
+    },
+    {
+      "title": "Waarom opent contextmenu (soms) niet als ik met rechtermuisknop op een afspraak klik?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26167134234385-Waarom-opent-contextmenu-soms-niet-als-ik-met-rechtermuisknop-op-een-afspraak-klik"
+    },
+    {
+      "title": "Waarom wordt de verkeerde prestatie toegevoegd?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44472043564305-Waarom-wordt-de-verkeerde-prestatie-toegevoegd"
+    },
+    {
+      "title": "Waarom wordt er geen of een verkeerde prestatie toegevoegd aan het ZPM consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44435975578385-Waarom-wordt-er-geen-of-een-verkeerde-prestatie-toegevoegd-aan-het-ZPM-consult"
+    },
+    {
+      "title": "Waarom wordt mijn consult niet financieel afgehandeld?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48713278667537-Waarom-wordt-mijn-consult-niet-financieel-afgehandeld"
+    },
+    {
+      "title": "Waarom zijn mijn wijzigingen niet opgeslagen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44364246131857-Waarom-zijn-mijn-wijzigingen-niet-opgeslagen"
+    },
+    {
+      "title": "Wat betekent de gekleurde streep op een patiëntafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35689988957073-Wat-betekent-de-gekleurde-streep-op-een-pati%C3%ABntafspraak"
+    },
+    {
+      "title": "Wat doen de knoppen rechts bovenin het scherm?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45190563923729-Wat-doen-de-knoppen-rechts-bovenin-het-scherm"
+    },
+    {
+      "title": "Wat is de James app?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44880863017617-Wat-is-de-James-app"
+    },
+    {
+      "title": "Wat is de juiste werkwijze voor het verwerken van een terugvordering van debiteurenrisico door Infomedics?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36147934611729-Wat-is-de-juiste-werkwijze-voor-het-verwerken-van-een-terugvordering-van-debiteurenrisico-door-Infomedics"
+    },
+    {
+      "title": "Wat is een algemene afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/29646751984657-Wat-is-een-algemene-afspraak"
+    },
+    {
+      "title": "Wat is een behandeldossier?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30709757874449-Wat-is-een-behandeldossier"
+    },
+    {
+      "title": "Wat is een consult?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45528681684113-Wat-is-een-consult"
+    },
+    {
+      "title": "Wat is een dagjournaal?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45526129537041-Wat-is-een-dagjournaal"
+    },
+    {
+      "title": "Wat is een groepsafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47760452282769-Wat-is-een-groepsafspraak"
+    },
+    {
+      "title": "Wat is een patiëntafspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/45290320856721-Wat-is-een-pati%C3%ABntafspraak"
+    },
+    {
+      "title": "Wat is een Rapport?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46493949559441-Wat-is-een-Rapport"
+    },
+    {
+      "title": "Wat is een rooster?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26941026853009-Wat-is-een-rooster"
+    },
+    {
+      "title": "Wat is een vragenlijst?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/35335357226513-Wat-is-een-vragenlijst"
+    },
+    {
+      "title": "Wat is een zorgcentrum?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30058502835089-Wat-is-een-zorgcentrum"
+    },
+    {
+      "title": "Wat is een ZPM afspraak?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36178949061521-Wat-is-een-ZPM-afspraak"
+    },
+    {
+      "title": "Wat is er mogelijk met de James API?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/46952204708369-Wat-is-er-mogelijk-met-de-James-API"
+    },
+    {
+      "title": "Wat kan een afsprakenbureau in James?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/36390251785361-Wat-kan-een-afsprakenbureau-in-James"
+    },
+    {
+      "title": "Wat te controleren voor ik declareer/ factureer?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30828172783889-Wat-te-controleren-voor-ik-declareer-factureer"
+    },
+    {
+      "title": "Wat te doen als een declaratie gedeeltelijk is afgewezen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/47752175508369-Wat-te-doen-als-een-declaratie-gedeeltelijk-is-afgewezen"
+    },
+    {
+      "title": "Wat te doen als James traag is of vastloopt?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30711764583441-Wat-te-doen-als-James-traag-is-of-vastloopt"
+    },
+    {
+      "title": "Wat te doen bij een no-show? (niet nagekomen afspraak)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/26167656766737-Wat-te-doen-bij-een-no-show-niet-nagekomen-afspraak"
+    },
+    {
+      "title": "Wat zijn de voorwaarden om een PREM vragenlijst te sturen?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/27855051465361-Wat-zijn-de-voorwaarden-om-een-PREM-vragenlijst-te-sturen"
+    },
+    {
+      "title": "Wegwijs in de agenda",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/25902613688465-Wegwijs-in-de-agenda"
+    },
+    {
+      "title": "Welke acties zijn gekoppeld aan ‘Reden einde zorg’?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/51506205143953-Welke-acties-zijn-gekoppeld-aan-Reden-einde-zorg"
+    },
+    {
+      "title": "Welke betalingscondities zijn er?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/44434434418321-Welke-betalingscondities-zijn-er"
+    },
+    {
+      "title": "Welke factuuropbouw heeft de factuur?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/48757325426449-Welke-factuuropbouw-heeft-de-factuur"
+    },
+    {
+      "title": "Welke verzekeraars mogen in hetzelfde contract? (2026)",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/40028710370321-Welke-verzekeraars-mogen-in-hetzelfde-contract-2026"
+    },
+    {
+      "title": "Welkom bij James!",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30160381270801-Welkom-bij-James"
+    },
+    {
+      "title": "Wie is de declarant?",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30221087419537-Wie-is-de-declarant"
+    },
+    {
+      "title": "Wie is James de Botler? Jouw AI-gesprekspartner in James!",
+      "url": "https://jamessoftware.zendesk.com/hc/nl/articles/30872080661905-Wie-is-James-de-Botler-Jouw-AI-gesprekspartner-in-James"
+    }
+  ]
+}

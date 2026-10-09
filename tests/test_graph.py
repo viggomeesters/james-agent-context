@@ -20,6 +20,7 @@ def load_module(name: str, path: Path):
 
 validate_module = load_module("validate", ROOT / "scripts" / "validate.py")
 boundary_module = load_module("public_boundary", ROOT / "scripts" / "public_boundary.py")
+index_module = load_module("compile_kb_index", ROOT / "scripts" / "compile_kb_index.py")
 
 
 class GraphContractTests(unittest.TestCase):
@@ -27,10 +28,37 @@ class GraphContractTests(unittest.TestCase):
     def setUpClass(cls):
         cls.graph = json.loads((ROOT / "data" / "graph.json").read_text())
         cls.sources = json.loads((ROOT / "data" / "sources.json").read_text())
+        cls.knowledge_base_index = json.loads((ROOT / "data" / "knowledge-base-index.json").read_text())
+        cls.knowledge_base_fixture = json.loads((ROOT / "tests" / "fixtures" / "knowledge-base-catalog.json").read_text())
 
     def test_source_integrity(self):
         self.assertEqual(validate_module.validate(self.graph, self.sources), [])
         self.assertEqual(len({item["id"] for item in self.sources["sources"]}), len(self.sources["sources"]))
+
+    def test_knowledge_base_index_is_complete_link_only_and_replayable(self):
+        self.assertEqual(validate_module.validate_index(self.knowledge_base_index), [])
+        self.assertEqual(set(self.knowledge_base_index), {"snapshot_date", "scope", "entries"})
+        self.assertEqual(self.knowledge_base_index, self.knowledge_base_fixture)
+        entries = self.knowledge_base_index["entries"]
+        self.assertEqual(len(entries), 637)
+        self.assertEqual(len({entry["title"] for entry in entries}), 637)
+        self.assertEqual(len({entry["url"] for entry in entries}), 637)
+        self.assertTrue(all(set(entry) == {"title", "url"} for entry in entries))
+        self.assertEqual(index_module.index_digest(self.knowledge_base_index), "46546b9d5dc629d08fa970a9c996efb1ea287ad1d8b6656cfe323992438ba0b4")
+        self.assertEqual(
+            entries,
+            index_module.compile_entries(self.knowledge_base_fixture),
+        )
+        markdown = (ROOT / "docs" / "knowledge-base-index.md").read_text(encoding="utf-8")
+        self.assertEqual(markdown, index_module.markdown_document(entries, self.knowledge_base_index["snapshot_date"]))
+
+    def test_index_schema_rejects_extra_or_unsorted_data(self):
+        altered = copy.deepcopy(self.knowledge_base_index)
+        altered["entries"][0]["id"] = "not-allowed"
+        self.assertTrue(any("unknown fields" in message for message in validate_module.validate_index(altered)))
+        altered = copy.deepcopy(self.knowledge_base_index)
+        altered["entries"][0], altered["entries"][1] = altered["entries"][1], altered["entries"][0]
+        self.assertTrue(any("alphabetically sorted" in message for message in validate_module.validate_index(altered)))
 
     def test_fact_and_inference_are_distinct(self):
         evidence = {item["evidence_type"] for item in self.graph["entities"] + self.graph["relationships"] + self.graph["claims"]}
